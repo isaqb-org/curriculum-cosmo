@@ -16,7 +16,7 @@ endif::[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: COSMO
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: MODULNAME IN VOLLER LAENGE
