@@ -1,4 +1,4 @@
-= <FULL MODULE NAME> – iSAQB® Advanced Level Curriculum (COSMO)
+= COSMO – iSAQB® Advanced Level Curriculum (COSMO)
 
 == Status
 image:https://github.com/isaqb-org/curriculum-cosmo/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
@@ -13,7 +13,7 @@ This is <<copyrighted,copyrighted work>>.
 == About this curriculum
 
 This repository contains the source of the iSAQB^(R)^ Advanced Level (CPSA-A) curriculum
-*<FULL MODULE NAME>* (module *COSMO*).
+*COSMO* (module *COSMO*).
 
 The curriculum is written in AsciiDoc and built into versioned *PDF and HTML* output in
 *German (DE)* and *English (EN)*. It was created from the
