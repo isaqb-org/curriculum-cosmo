@@ -1,0 +1,73 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Kollaborative Sessions als Facilitator begleiten können
+
+Teilnehmende kennen grundlegende Moderationstechniken für die
+Gestaltung von Workshops.
+
+Teilnehmende verstehen die Bedeutung folgender Fähigkeiten für die
+Facilitation und kennen Praktiken, um sie anzuwenden oder zu erwerben.
+
+- Klare Kommunikation
+- Aktives Zuhören
+- Einen sicheren Rahmen schaffen
+
+[[LZ-5-2]]
+==== LZ 5-2: Grundlegende Kommunikationsmodelle kennen
+
+Teilnehmende haben einen Überblick über diese drei Arten von
+Kommunikationsmodellen.
+
+- Lineare Kommunikation
+- Interaktive Kommunikation
+- Transaktionale Kommunikation
+
+Teilnehmende verstehen die Unterschiede dieser Kategorien und können
+typische Situationen im Alltag der Softwareentwicklung zuordnen
+(z.B. Meetings, Design-Workshops, Pair-Programming).
+
+Ein detailliertes Verständnis von spezifischen Methoden
+(z.B. Shannon-Weaver) ist nicht Bestandteil von COSMO.
+
+[[LZ-5-3]]
+==== LZ 5-3: Als Facilitator neutral agieren können
+
+Teilnehmende verstehen die Bedeutung einer neutralen Haltung des Facilitators.
+Sie verstehen, dass Interessenskonflikte durch den Facilitator den Erfolg kollaborativer
+Sessions schmälern können und dass andere, potenziell externe, Personen als Facilitator
+eine Lösung dafür sein können.
+
+[[LZ-5-4]]
+==== LZ 5-4: Grundlegende Moderationsfähigkeiten beherrschen
+
+Teilnehmende verstehen, dass die Wahrnehmung der Facilitator-Rolle auch Moderationsfähigkeiten erfordert. Sie verstehen insbesondere,
+dass unterschiedliche Praktiken auch unterschiedliche Moderationsfähigkeiten erfordern können.
+Das Training vermittelt Moderationsfähigkeiten in einem für die Rolle angemessenen Maß.
+
+
+[[LZ-5-5]]
+==== LZ 5-5: Mit Uneinigkeit in kollaborativen Sessions umgehen können
+
+Teilnehmende verstehen, dass Uneinigkeit in kollaborativen Modellierungssessions ein normaler Bestandteil gemeinsamer Architekturarbeit ist.
+
+Teilnehmende können als Facilitator dazu beitragen, unterschiedliche Annahmen und mentale Modelle sichtbar zu machen und auf ein gemeinsames Verständnis der Designaufgabe hinzuführen.
+
+Sie kennen Möglichkeiten, Ownership und Konsensbildung zu fördern, ohne fachliche Differenzen zu übergehen oder vorschnell aufzulösen.
+
+Ein detailliertes Verständnis von Konfliktanalyse und Konfliktlösung ist nicht Bestandteil von COSMO. Zur Vertiefung wird auf das CPSA-A-Modul SOFT verwiesen.
+
+w
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+
+[[LG-5-2]]
+==== LG 5-2: TBD
+tbd.
+// end::EN[]

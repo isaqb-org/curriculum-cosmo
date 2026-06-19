@@ -1,0 +1,23 @@
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: 60 Min.
+|===
+
+=== Begriffe und Konzepte
+
+- Kultur
+- Randbedingungen
+- Energie eines Meetings
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+// end::EN[]
+

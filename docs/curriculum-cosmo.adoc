@@ -44,19 +44,19 @@ include::00b-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
+include::01-software-development-social-system/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-collaborative-modeling-basics/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-advanced-collaborative-modeling/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-suceed-with-collaborative-modeling/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-making-an-impact/00-structure.adoc[{include_configuration}]
 
 <<<
 include::20-examples/00-examples.adoc[{include_configuration}]

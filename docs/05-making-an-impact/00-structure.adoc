@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== Als Facilitator Wirkung erzielen
 // end::DE[]
 
 // tag::EN[]

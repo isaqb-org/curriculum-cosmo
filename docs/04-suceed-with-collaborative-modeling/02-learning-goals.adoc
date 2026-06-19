@@ -1,0 +1,169 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Erfolgsfaktoren und Randbedingungen für kollaborative Architekturarbeit kennen
+
+Teilnehmende sind sich bewusst, dass das Vorhandensein oder Fehlen
+kultureller Voraussetzungen in der jeweiligen Organisation Einfluss
+auf kollaborative Architekturarbeit hat.
+
+Teilnehmende lernen, Randbedingungen und Erfordernisse zu
+identifizieren, die direkten Einfluss auf die Architekturarbeit haben.
+
+Das Training gibt praktische Hinweise, wie in einer
+architekturverantwortlichen Rolle Einfluss auf organisatorische
+Randbedingungen genommen werden kann und wie in Fällen, in denen dies
+nicht möglich ist, verfahren werden kann.
+
+Teilnehmende verstehen die Bedeutung des Buy-ins relevanter Stakeholder
+für wirksame kollaborative Architekturarbeit.
+
+Sie kennen Praktiken, um vorhandenes Buy-in zu überprüfen und fehlendes
+Buy-in sichtbar zu machen oder zu fördern.
+
+[[LZ-4-2]]
+==== LZ 4-2: Teilnehmende können den Impact von kollaborativen Sessions auf die Architekturarbeit einschätzen und erkennen
+
+Teilnehmenden wird ein Bewusstsein für die Effekte von kollaborativen
+Design-Sessions und insbesondere deren Impact auf bestehende Planungen
+und existierende Designs vermittelt.
+
+Teilnehmende verstehen, dass der Zeitpunkt einer Session ebenso wie
+Scope und Teilnehmerkreis einen erheblichen Einfluss auf die Energie
+der Session und damit den Verlauf eines Entwicklungsvorhabens haben
+können.
+
+[[LZ-4-3]]
+==== LZ 4-3: Die Ausgangslage für kollaborative Architekturarbeit einschätzen können
+
+Teilnehmende verstehen Lagebewusstsein als die Fähigkeit, die Ausgangslage eines soziotechnischen Systems
+hinsichtlich Menschen, Organisation, Zusammenarbeit und Rahmenbedingungen realistisch einzuordnen.
+
+Sie verstehen, dass fehlendes Lagebewusstsein zu ungeeigneten Erwartungen, unpassenden Formaten oder
+wenig wirksamer kollaborativer Architekturarbeit führen kann.
+
+Teilnehmende kennen Praktiken, mit denen Lagebewusstsein aufgebaut und während der kollaborativen Arbeit
+weiterentwickelt werden kann.
+
+[[LZ-4-4]]
+==== LZ 4-4: Die Ausgangslage einer konkreten kollaborativen Session klären können
+
+Teilnehmende verstehen, dass für eine wirksame kollaborative Session die konkrete Aufgabenstellung, der verfügbare Wissensstand und bestehende Wissenslücken geklärt werden müssen.
+
+Sie können relevante Wissensquellen, Interessen und Perspektiven identifizieren, die für die Bearbeitung der Aufgabenstellung notwendig sind.
+
+Teilnehmende kennen Praktiken, mit denen die Ausgangslage einer Session vorbereitet, sichtbar gemacht und mit den beteiligten Personen abgeglichen werden kann.
+
+[[LZ-4-5]]
+==== LZ 4-5: Spontane Meetings in strukturierte kollaborative Arbeitssituationen überführen
+
+Teilnehmende verstehen, dass spontane Architektur- und Modellierungsdiskussionen
+von kollaborativer Modellierung profitieren können.
+
+Sie haben Maßnahmen kennengelernt, in solchen Situationen kurzfristig eine geeignete Struktur
+zu schaffen, die z.B. Ziele, Fragestellung, verfügbare Zeit, beteiligte
+Personen und erwartetes Ergebnis klären.
+
+Teilnehmende kennen einfache Moderations- und Fragetechniken,
+um eine unstrukturierte Diskussion in eine gemeinsame Modellierungsarbeit
+zu überführen.
+
+Sie verstehen, dass vorbereitete Arbeitsumgebungen und verfügbare
+Werkzeuge, beispielsweise Architekturwände, Whiteboards, Stifte und
+Sticky Notes, spontane kollaborative Sessions erleichtern.
+
+Teilnehmende kennen Praktiken, um Ergebnisse einer spontanen Session sichtbar zu machen,
+sichern und nächste Schritte ableiten.
+
+
+[[LZ-4-6]]
+==== LZ 4-6: Förderliche und hinderliche Verhaltensmuster für kollaborative Architekturarbeit erkennen können
+
+Teilnehmende verstehen, dass organisatorische Verhaltensmuster und
+kulturelle Rahmenbedingungen erheblichen Einfluss auf kollaborative
+Architekturarbeit haben können.
+
+Sie kennen typische Verhaltensmuster und kulturelle Eigenschaften, die
+kollaborative Architekturarbeit fördern oder behindern können.
+
+Teilnehmende verstehen, dass die Etablierung kollaborativer
+Arbeitsweisen häufig Veränderungen bestehender Gewohnheiten,
+Kommunikationsmuster und Verantwortungsverständnisse erfordert.
+
+Sie können Handlungsfelder identifizieren, in denen
+Verhaltensänderungen notwendig sein können, um kollaborative
+Architekturarbeit wirksam zu etablieren.
+
+Teilnehmende verstehen, dass, sich bestehende Kommunikations-,
+Entscheidungs- und Verantwortungsstrukturen auf die Etablierung
+kollaborativer Arbeitsweisen auswirken können.
+
+
+[[LZ-4-7]]
+==== LZ 4-7: Störgrößen und Hindernisse für kollaborative Sessions erkennen können
+
+Teilnehmende verstehen, dass Machtgefälle, dominante
+Session-Teilnehmende und abweichende Meinungen einschüchternd wirken
+können und stark hinderlich auf die erwartbare Qualität der
+kollaborativen Session wirken.
+
+Teilnehmende kennen Methoden zur Moderation und Vorbereitung von
+kollaborativen Sessions, um mögliche Störgrößen zu identifizieren und
+zu verringern.
+
+
+[[LZ-4-8]]
+==== LZ 4-8: Die Bedeutung und den Einfluss von Workshop-Logistik für den Erfolg kollaborativer Sessions verstehen
+
+Teilnehmende verstehen, dass organisatorische und logistische Rahmenbedingungen erheblichen Einfluss auf Verlauf
+und Ergebnis kollaborativer Sessions haben können.
+
+Sie kennen die Bedeutung von Pausen, Energielevel und Session-Rhythmus für längere kollaborative
+Arbeitsphasen.
+
+Teilnehmende verstehen, dass geeignete Verpflegung, angenehme Arbeitsumgebungen und bewusste
+Unterbrechungen die Konzentration und Zusammenarbeit unterstützen können.
+
+Sie verstehen, dass informeller Austausch und Socializing Vertrauen, Vernetzung und nachhaltige
+Zusammenarbeit fördern können.
+
+
+[[LZ-4-9]]
+==== LZ 4-9: Inklusion und Diversität als Erfolgsfaktoren kollaborativer Architekturarbeit verstehen
+
+Teilnehmende verstehen, dass kollaborative Architekturarbeit dazu beitragen kann, unterrepräsentierten Gruppen
+eine gleichberechtigte Stimme zu geben.
+
+Sie verstehen, dass Sichtweisen unterrepräsentierter Gruppen in kollaborativen Sessions sichtbar und besprechbar
+werden können, die in zentralisierten oder hierarchisch geprägten Entscheidungsprozessen leicht übersehen werden.
+
+Teilnehmende verstehen, dass divers zusammengesetzte Gruppen ein breiteres Spektrum an Erfahrungen, Bedürfnissen
+und Perspektiven in die Architekturarbeit einbringen können.
+
+Sie kennen Möglichkeiten, kollaborative Formate so zu gestalten, dass unterschiedliche Perspektiven wirksam
+eingebracht und angemessen berücksichtigt werden können.
+
+Teilnehmende verstehen die Grundhaltung, dass alle an einer
+kollaborativen Session beteiligten Personen unterschiedliche Kenntnisse,
+Erfahrungen, Rollen, Positionen, Fähigkeiten und Hintergründe einbringen.
+
+Sie verstehen zugleich, dass alle Beteiligten das gleiche Recht haben,
+wahrgenommen zu werden, sich zu äußern und zur gemeinsamen
+Architekturarbeit beizutragen.
+
+Teilnehmende kennen Praktiken der Facilitation, mit denen unterschiedliche
+Perspektiven sichtbar gemacht und gleichwürdig in die kollaborative
+Arbeit einbezogen werden können.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: TBD
+tbd.
+
+[[LG-4-2]]
+==== LG 4-2: TBD
+tbd.
+// end::EN[]
