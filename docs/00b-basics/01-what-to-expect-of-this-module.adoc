@@ -1,8 +1,23 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Das Modul `{curriculum-name}` zeigt den Teilnehmerinnen und Teilnehmern,
+wie sie kollaborative Modellierung nutzen können,
+um gemeinsam im Team tragfähige Architekturen zu gestalten.
+
+Da Architekturarbeit immer im Team entsteht oder Teams beeinflusst,
+lernen die Teilnehmenden konkrete, praxiserprobte Methoden kennen,
+die echte Zusammenarbeit ermöglichen und bessere Gespräche über fachliche und technische Zusammenhänge fördern.
+
+Am Ende des Moduls kennen die Teilnehmenden verschiedene kollaborative Modellierungsansätze,
+verstehen deren Stärken und Grenzen und können die dahinterliegenden Prinzipien einordnen.
+Sie sind in der Lage, an Modellierungssessions konstruktiv mitzuwirken,
+mindestens eine Methode selbst vorzubereiten und durchzuführen
+sowie kollaborative Modellierung in ihren Projekten zu etablieren.
+
+Darüber hinaus befähigt das Modul die Teilnehmenden,
+Komplexität sichtbar zu machen
+und Entscheidungen im Team früher und klarer vorzubereiten.
 // end::DE[]
 
 // tag::EN[]
@@ -11,10 +26,3 @@ Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 The module presents {curriculum-short} to the participants …
 At the end of the module, the participants know … and are able to …
 // end::EN[]
-
-
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====
