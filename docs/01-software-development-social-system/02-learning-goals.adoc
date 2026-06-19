@@ -1,0 +1,48 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Impact soziotechnischer Systeme auf die Architekturarbeit verstehen
+
+Teilnehmende kennen den Begriff und die Implikationen des
+Konzepts soziotechnischer Systeme. Sie sind in der Lage, die Facetten
+der Architekturarbeit auf die Bausteine des soziotechnischen Systems
+abzubilden.
+
+Das Training vermittelt ein detailliertes Verständnis der Bedeutung
+der Bausteine "Organisatorische Struktur", "Personen", "Technisches
+System" und "Prozesse".
+
+Teilnehmenden ist bewusst, dass die Bausteine wechselseitig Einfluss
+aufeinander ausüben und dass Architekturentscheidungen im Rahmen des
+gesamten soziotechnischen Gefüges Wirkung entfalten.
+
+[[LZ-1-2]]
+==== LZ 1-2: Grundlagen menschlicher Kollaboration verstehen
+
+Die Teilnehmenden verstehen, dass Menschen aus unterschiedlichen individuellen und gemeinsamen Motiven kollaborieren.
+
+Die Teilnehmenden verstehen, welche Faktoren die Bereitschaft zur Zusammenarbeit fördern oder behindern können.
+
+Die Teilnehmenden kennen grundlegende soziale und organisatorische Rahmenbedingungen, die erfolgreiche Kollaboration unterstützen.
+
+Die Teilnehmenden verstehen, dass Vertrauen, psychologische Sicherheit, Transparenz und gemeinsame Ziele wichtige Voraussetzungen für nachhaltige Zusammenarbeit sein können.
+
+Die Teilnehmenden verstehen, dass Kollaboration aktiv gestaltet und kontinuierlich erhalten werden muss.
+
+[[LZ-1-3]]
+==== LZ 1-3: Relevante Kollaborationspartner in der Architekturarbeit kennen
+
+Teilnehmende kennen typische Kollaborationspartner kollaborativer Architekturarbeit, insbesondere Entwicklungsteams, Stakeholder, Management und Benutzer:innen, sowie deren mögliche Perspektiven und Interessen.
+
+Teilnehmende verstehen, dass kollaborative Architekturarbeit nicht auf Personen mit der Rolle Architekt:in beschränkt ist, sondern von unterschiedlichen Rollen und Perspektiven profitieren kann.
+
+Sie kennen typische Beteiligte kollaborativer Architekturarbeit.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: The is the first learning goal, in category xy
+tbd.
+// end::EN[]

@@ -1,0 +1,65 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Kollaborative Ansätze für die Architekturarbeit kennen
+
+Teilnehmende haben einen Überblick über kollaborative Ansätze erworben
+und haben einzelne, für die Architekturarbeit besonders wertvolle
+Praktiken im Detail kennengelernt.
+
+Teilnehmende kennen kollaborative Modellierungstechniken für Bereiche
+wie:
+
+- Domain Exploration und Discovery
+- Software Design
+- Anforderungsklärung
+- Organisation
+- Strategische Betrachtung
+
+Teilnehmende können anhand von praktischen Szenarien entscheiden,
+welche Technik in welcher Situation anwendbar ist (Beispiel:
+Anforderungsanalyse, Beispiel: Modellierung).
+
+Für die im Training konkret behandelten Praktiken sind Teilnehmende in der Lage, erforderliche Vorbereitungen
+zu treffen, kollaborative Sessions zu leiten und nachzubereiten.
+
+[[LZ-6-2]]
+==== LZ 6-2: Geeignete kollaborative Ansätze für den individuellen Kontext auswählen können
+
+Teilnehmende können entscheiden, welche kollaborativen Formate für
+welche Situation geeignet sind. Dazu kennen Teilnehmenden die
+charakteristischen Merkmale der vorgestellten Methoden und verstehen,
+welche Randbedingungen für den Erfolg der jeweiligen Methode
+maßgeblich sind. Sie kennen Möglichkeiten zur Kombination von
+kollaborativen Modellierungstechniken.
+
+Teilnehmende verstehen, wie die im organisatorischen
+Kontext vorherrschenden Randbedingungen und Erwartungen sich auf
+Vorbereitung, Durchführung und Nachbereitung kollaborativer Sessions
+auswirken.
+
+
+[[LZ-6-3]]
+==== LZ 6-3: Spezifische Erfordernisse für die vorgestellten Ansätze kennen
+
+Für alle vorgestellten Ansätze, Praktiken und Methoden kennen
+Teilnehmende die Erfordernisse an:
+
+- Facilitator
+- Ort und Räumlichkeit
+- Teilnehmerkreis
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: TBD
+tbd.
+
+[[LG-6-2]]
+==== LG 6-2: TBD
+tbd.
+// end::EN[]
+

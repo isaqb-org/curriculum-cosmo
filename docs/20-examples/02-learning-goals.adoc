@@ -2,15 +2,11 @@
 
 // tag::DE[]
 [[LZ-98-1]]
-==== LZ 98-1: Dies ist das letzte Lernziel des Lehrplans
-Hier wird ein mögliches Lernziel der Beispiele beschrieben, was Teilnehmer:innen lernen sollen.
-Das kann in Prosa-Text in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen.
-Dabei kann auch unterschieden werden, wie wichtig einzelne Aspekte des Lernziels sind.
-Es kann hier bereits auf Literatur verwiesen werden.
+==== LZ 6-1: 
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+Teilnehmende sollen im Rahmen des Beispiels vor allem die Durchführung,
+Vorbereitung und Nachbereitung von kollaborativer Modellierung als
+Teilnehmer und Moderator kennenlernen.
 
 // end::DE[]
 

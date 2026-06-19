@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+|  | Übungszeit: 390 Min.
 |===
 
 === Begriffe und Konzepte
@@ -15,8 +15,8 @@ Begriff 1, Begriff 2, Begriff 3
 
 === Terms and Principles
 Term 1, Term 2, Term 3
-// end::EN[]
 
+// end::EN[]
 
 [NOTE]
 ====

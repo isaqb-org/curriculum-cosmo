@@ -1,0 +1,105 @@
+=== {learning-goals}
+
+// tag::DE[]
+
+
+[[LZ-3-1]]
+==== LZ 3-1: Werkzeuge für kollaborative Modellierung auswählen und nutzen können
+
+Teilnehmende kennen gängige analoge und digitale Werkzeuge für
+kollaborative Modellierung und können deren Eignung für unterschiedliche
+Session-Formate einschätzen.
+
+Sie kennen insbesondere:
+
+- Analoge Whiteboards, Stifte und Papier
+- Post-Its und andere haptische Arbeitsmittel
+- Digitale Whiteboards, beispielsweise Miro oder Mural
+- Vorlagen und Templates aus relevanten Communities
+
+Teilnehmende können Stärken, Grenzen und typische Einsatzkontexte dieser
+Werkzeuge beschreiben und für ihren individuellen Kontext eine geeignete
+Werkzeugauswahl treffen.
+
+Teilnehmende können eine Auswahl an Werkzeugen sicher genug nutzen, um
+kollaborative Modellierungssessions vorzubereiten, durchzuführen und
+Ergebnisse zu sichern.
+
+[[LZ-3-2]]
+==== LZ 3-2: Rollen und Teilnehmerkreise für kollaborative Sessions identifizieren können
+
+Teilnehmende verstehen, dass der Erfolg und eine nachhaltig positive
+Wirkung von kollaborativen Sessions wesentlich von der Zusammensetzung
+der Teilnehmerrunde abhängt.
+
+Teilnehmende sind in der Lage, relevante Skills und
+Verantwortlichkeiten zu identifizieren, die für den jeweiligen Kontext
+benötigt werden.
+
+Teilnehmende können die Facilitator-Rolle von der inhaltlichen
+Mitgestaltung von Architektur- und Designentscheidungen abgrenzen.
+
+Sie verstehen, dass in kollaborativer Architekturarbeit viele Beteiligte
+Beiträge zum Design leisten können, unabhängig von ihrer formalen Rolle
+im Softwareentwicklungsprozess.
+
+Teilnehmende können einschätzen, welche Auswirkungen es hat, wenn eine
+Person zugleich Facilitator und inhaltlich beteiligte Designerin oder
+beteiligter Designer ist.
+
+[[LZ-3-3]]
+==== LZ 3-3: Informationen in kollaborativen Sessions interaktiv visualisieren können
+
+Teilnehmende können in einer kollaborativen Modellierungssession
+Informationen durch Zuhören, Nachfragen und Visualisieren erfassen.
+
+Sie verstehen, dass die Facilitator-Rolle in solchen Situationen
+Anteile von Moderation, Interviewführung, Übersetzung und Visualisierung
+verbindet.
+
+Teilnehmende können Gehörtes in ein für die Gruppe verständliches
+Modell überführen und dieses Modell gemeinsam mit den Teilnehmenden
+schrittweise weiterentwickeln.
+
+Sie können Visualisierung gezielt nutzen, um unerfahrene Teilnehmende
+in die Modellierung einzubeziehen und ein gemeinsames Verständnis zu
+fördern.
+
+[[LZ-3-4]]
+==== LZ 3-4: In‑Person‑ oder Remote‑Format für eine kollaborative Modellierungssession entscheiden
+
+Teilnehmende kennen typische Stärken und Schwächen von In-Person- und Remote-Sessions in der kollaborativen Architekturarbeit.
+
+Sie verstehen, dass nicht jedes kollaborative Format gleichermaßen für unterschiedliche organisatorische, soziale oder räumliche Rahmenbedingungen geeignet ist.
+
+Teilnehmende können beurteilen, wie Session‑Format (In‑Person vs. Remote), Gruppendynamik, Interaktionsgrad und organisatorische Rahmenbedingungen den Verlauf und Erfolg kollaborativer Modellierung beeinflussen und daraus geeignete Maßnahmen für das jeweils passende Format ableiten.
+
+Sie verstehen, dass die bewusste Auswahl oder Anpassung eines kollaborativen Formats dazu beitragen kann, Risiken zu reduzieren und die Wirksamkeit einer Session zu erhöhen.
+
+Teilnehmende können für eine gegebene Situation begründet entscheiden, ob ein In‑Person‑ oder Remote‑Format für eine kollaborative Modellierungssession geeigneter ist, basierend auf Gruppendynamik, Interaktionsanforderungen und organisatorischem Kontext.
+
+[[LZ-3-5]]
+==== LZ 3-5: Die Bedeutung einer "gemeinsamen Sprache" verstehen
+
+Teilnehmende verstehen, welche Bedeutung Sprache und ein gemeinsames
+Verständnis von Begrifflichkeiten für kollaborative Architekturarbeit
+haben. Sie verstehen die Notwendigkeit, begriffliche Definitionen
+kontinuierlich zu hinterfragen und weiterzuentwickeln.
+
+Teilnehmende wissen, welche Hürden beim Entwickeln eines gemeinsamen
+Verständnisses von fachlichen Domänen existieren.
+
+Sie verstehen, welche Potenziale die Einführung einer bewusst gestalteten gemeinsamen Sprache birgt
+und können erkennen, wenn eine solche fehlt.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: TBD
+tbd.
+
+[[LG-3-2]]
+==== LG 3-2: TBD
+tbd.
+// end::EN[]

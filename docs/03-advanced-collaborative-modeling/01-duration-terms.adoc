@@ -1,0 +1,23 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. | Übungszeit: 90 Min.
+|===
+
+=== Begriffe und Konzepte
+
+- Facilitation
+- Werkzeuge
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+
+// end::EN[]
+

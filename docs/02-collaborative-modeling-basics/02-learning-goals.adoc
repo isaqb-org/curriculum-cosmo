@@ -1,0 +1,93 @@
+=== {learning-goals}
+
+// tag::DE[]
+
+
+[[LZ-2-1]]
+==== LZ 2-1: Bedarf an kollaborativer Architekturarbeit erkennen und einschätzen können
+
+Teilnehmende kennen typische Szenarien, in denen kollaborative
+Architekturarbeit positiven Einfluss auf Zusammenarbeit,
+Entscheidungsfindung und Architekturqualität haben kann. Sie
+verstehen, dass kollaborative Architekturarbeit insbesondere bei
+komplexen Fragestellungen, hohem Abstimmungsbedarf oder verteiltem
+Wissen wirksam eingesetzt werden kann.
+
+Teilnehmende können für verschiedenen Szenarien (insbesondere ihrem
+eigenen organisatorischen Kontext) den Bedarf an kollaborativer
+Architekturarbeit erkennen, indem sie Symptome wie Wissensinseln,
+Abstimmungsprobleme, Missverständnisse oder Entscheidungsstau
+identifizieren und bewerten.
+
+
+[[LZ-2-2]]
+==== LZ 2-2: Kollaborative Modellierung praktisch erleben
+
+Teilnehmende haben kollaborative Modellierung an einem praktischen
+Beispiel erlebt und an einer kollaborativen Modellierung
+teilgenommen. Dadurch kennen Teilnehmende kollaborative Modellierung
+aus Sicht einer an der Modellierung beteiligten Person.
+
+
+[[LZ-2-3]]
+==== LZ 2-3: Grundlagen von Facilitation
+
+Teilnehmende kennen die Rolle des Facilitators in kollaborativen
+Modellierungssessions und typische Verantwortlichkeiten bei
+Vorbereitung, Durchführung und Nachbereitung.
+
+Sie verstehen, dass Facilitation in kollaborativen Sessions
+leichtgewichtig wahrgenommen werden kann und keine formale Rolle oder
+umfangreiche methodische Ausbildung voraussetzt.
+
+
+[[LZ-2-4]]
+==== LZ 2-4: Kollaborative Modellierungssession durchführen
+
+Teilnehmende können die notwendigen Schritte für die Vorbereitung,
+Nachbereitung und Durchführung einer kollaborativen Modellierung
+durchführen.
+
+Teilnehmende können die Voraussetzung für die Durchführung
+schaffen. Dazu gehört das Herrichten der entsprechenden Gegebenheiten
+(beispielsweise räumlich), das Bereitstellen der Werkzeuge und eine
+Zeitplanung.
+
+Teilnehmende können eine kollaborative Modellierungssession
+durchführen. Dazu gehört das Nachhalten des Zeitplans, das Einholen
+von Feedback und das Sichern von Ergebnissen.
+
+Teilnehmende können nach einer kollaborativen Modellierungssession die
+Ergebnisse für die weitere Arbeit zur Verfügung stellen und
+dokumentieren.
+
+Teilnehmende können für sich selbst nach Durchführung einer
+kollaborativen Modellierung reflektieren und so
+Verbesserungspotenziale für die nächste kollaborative Modellierung
+ableiten.
+
+
+[[LZ-2-5]]
+==== LZ 2-5: Reflexion über kollaborative Modellierung
+
+Teilnehmende haben über die praktische Anwendung von kollaborativer
+Modellierung reflektiert:
+
+* Welche Rollen haben sie selbst bei der Modellierung gespielt?
+* Was unterscheidet dieses Vorgehen von ihrem bisherigen Vorgehen?
+
+Dadurch wissen Teilnehmende, welche Rolle kollaborative Modellierung
+in ihrem Werkzeugkoffer spielen kann.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: TBD
+tbd.
+
+[[LG-2-2]]
+==== LG 2-2: TBD
+tbd.
+// end::EN[]
+

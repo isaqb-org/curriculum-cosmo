@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Software Entwicklung als soziales System
 // end::DE[]
 
 // tag::EN[]

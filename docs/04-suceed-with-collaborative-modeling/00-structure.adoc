@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Viertes Modul, das ist sein Titel
+== Mit kollaborativer Modellierung erfolgreich sein
 // end::DE[]
 
 // tag::EN[]

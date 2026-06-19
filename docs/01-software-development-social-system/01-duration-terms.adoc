@@ -1,0 +1,21 @@
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+
+- Soziotechnisches System
+- kollaborative Modellierung
+- Gemeinsame Sprache
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: XXX min | Practice time: XXX min
+|===
+
+=== Terms and Principles
+Term 1, Term 2, Term 3
+// end::EN[]
