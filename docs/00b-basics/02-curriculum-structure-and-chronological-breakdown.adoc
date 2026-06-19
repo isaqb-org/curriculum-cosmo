@@ -1,20 +1,16 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
-**Anmerkung:** Die Reihenfolge der Kapitel gibt nicht die Struktur eines Trainings vor.
-Trainingsanbieter können die Reihenfolge beliebig für ihr didaktisches Konzept anpassen.
-
-[cols="<,>", options="header"]
+[cols="<,>,>", options="header"]
 |===
-| Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
-| |
-| Summe | 960 (16h)
+| Inhalt | Empfohlene Mindestdauer (min) | Übungen (min)
+| 1. Softwareentwicklung als soziales System | 60 | 30
+| 2. Grundlagen Kollaborativer Modellierung | 120 | 90
+| 3. Fortgeschrittene kollaborative Modellierung  | 120 | 90
+| 4. Mit kollaborativer Modellierung erfolgreich sein | 60 | 60
+| 5. Wirkung erzielen | 60 | 60
+| 6. Beispiel | | 390
+| Summe 2+| 1140 (19h)
 
 |===
 
@@ -23,30 +19,17 @@ Trainingsanbieter können die Reihenfolge beliebig für ihr didaktisches Konzept
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
-**Note:** The order of the chapters does not dictate the layout of a training course. Providers can adjust this for didactic reasons.
-
-[cols="<,>", options="header"]
+[cols="<,>,>", options="header"]
 |===
-| Content
-| Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
-| |
-| Total | 960 (16h)
+| Content | Recommended minimum duration (minutes) | Exercises (minutes)
+| 1. Introduction | 180 |
+| 2. xz | 150 |
+| 3. Lots of theory | 120 |
+| 4. xy and example | 180 |
+| 5. abc and d | 210 |
+| 6. Final example | 120 |
+| Total 2+| 960 (16h)
 
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====

@@ -3,10 +3,45 @@
 
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
+Zur Beschreibung der Lernziele werden in diesem Lehrplan die Begriffe *Kennen*, *Verstehen* und *Können* verwendet. Diese Begriffe kennzeichnen unterschiedliche Kompetenzstufen und bauen aufeinander auf.
+
+*Kennen*:
+Teilnehmende haben Kenntnis von der Existenz eines Begriffs, Konzepts oder einer Praktik und können diese grob einordnen.
+
+*Verstehen*:
+Teilnehmende haben sich mit dem Begriff, Konzept oder der Praktik auseinandergesetzt und können Zusammenhänge, Hintergründe und Bedeutung erläutern sowie in einen Kontext einordnen.
+
+*Können*:
+Teilnehmende haben praktische Erfahrung mit dem Begriff, Konzept oder der Praktik im Rahmen der Schulung gesammelt und sind in der Lage, diese selbstständig anzuwenden.
+
+Die Kompetenzstufen stehen in einer hierarchischen Beziehung:
+
+*Kennen < Verstehen < Können*
+
+Jede höhere Stufe schließt die darunterliegenden Stufen ein.
+
 // end::DE[]
 
 // tag::EN[]
 === Supplementary Information, Terms, Translations
 
 To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the https://github.com/isaqb-org/glossary[iSAQB glossary] and complemented them by references to (translated) literature.
+
+To describe learning objectives, this curriculum uses the terms *Know*, *Understand*, and *Apply*. These terms represent different levels of competence and build upon each other.
+
+*Know*:
+Participants are aware of the existence of a concept, term, or practice and can roughly classify it.
+
+*Understand*:
+Participants have engaged with the concept, term, or practice and can explain its meaning, context, and relationships.
+
+*Apply*:
+Participants have gained practical experience with the concept, term, or practice during the training and are able to use it independently.
+
+The competence levels follow a hierarchical order:
+
+*Know < Understand < Apply*
+
+Each higher level includes the preceding ones.
+
 // end::EN[]

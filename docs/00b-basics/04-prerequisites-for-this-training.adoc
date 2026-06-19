@@ -3,17 +3,22 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Grundlegendes Verständnis für Software-Architektur und typische
+Herausforderungen in diesem Feld
+- Erfahrung mit den typischen Herausforderungen und Ansätzen bei der
+Arbeit an Architekturen im Projektalltag.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Arbeit in Gruppen:
+* Erfahrung und Kenntnisse von Moderationsmethoden
+* Erfahrung und Kenntnisse über die Strukturierung und Durchführung von Meetings
+- Architekturarbeit
+* Erfahrung und Kenntnisse über die Dokumentation und Visualisierung
+von Software, insbesondere Architekturen
+- Soziotechnische Belange
+* Kenntnisse über Soziotechnik und ihre Auswirkungen auf
+Architekturarbeit und Software-Entwicklung.
 // end::DE[]
 
 // tag::EN[]
@@ -27,14 +32,9 @@ Participants **should** have the following prerequisite knowledge:
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
 - Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+* Knowledge 1
+* Experience 2
+* Knowledge 3
+* Experience 4
+* Understanding 5
 // end::EN[]
-
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
