@@ -1,6 +1,8 @@
 === {learning-goals}
 
 // tag::DE[]
+Dieser Lernblock vermittelt die praktischen Grundlagen kollaborativer Modellierung. Die Teilnehmenden lernen, Werkzeuge gezielt einzusetzen, passende Beteiligte einzubinden und Informationen während einer Session sichtbar zu machen. Sie verstehen, wie Format, Gruppenzusammensetzung und gemeinsame Sprache den Erfolg einer Session beeinflussen.
+
 
 
 [[LZ-3-1]]

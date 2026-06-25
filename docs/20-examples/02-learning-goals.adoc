@@ -15,10 +15,3 @@ Teilnehmer und Moderator kennenlernen.
 [[LG-98-1]]
 ==== LG 98-1: Last learning goal of the curriculum
 // end::EN[]
-
-
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====

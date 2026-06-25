@@ -1,6 +1,7 @@
 === {learning-goals}
 
 // tag::DE[]
+Dieser Lernblock vermittelt, wann und warum kollaborative Architekturarbeit sinnvoll ist und wie sie wirksam gestaltet werden kann. Die Teilnehmenden lernen, typische Auslöser und Bedarfe für kollaborative Modellierung zu erkennen und in ihrem eigenen Kontext einzuordnen. Durch praktische Anwendung erleben sie kollaborative Modellierung aus erster Hand und verstehen die Rolle von Facilitation als Mittel, Zusammenarbeit gezielt zu unterstützen.
 
 
 [[LZ-2-1]]

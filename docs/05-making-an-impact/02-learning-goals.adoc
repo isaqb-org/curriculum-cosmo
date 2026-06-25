@@ -1,7 +1,9 @@
 === {learning-goals}
 
-
 // tag::DE[]
+
+Dieser Lernblock vermittelt die kommunikativen Grundlagen wirksamer Facilitation. Die Teilnehmenden lernen, kollaborative Sessions durch klare Kommunikation, aktives Zuhören und eine neutrale Haltung zu begleiten. Sie verstehen, wie unterschiedliche Kommunikationsformen Zusammenarbeit prägen und wie mit Uneinigkeit konstruktiv umgegangen werden kann.
+
 [[LZ-5-1]]
 ==== LZ 5-1: Kollaborative Sessions als Facilitator begleiten können
 
@@ -59,7 +61,6 @@ Sie kennen Möglichkeiten, Ownership und Konsensbildung zu fördern, ohne fachli
 
 Ein detailliertes Verständnis von Konfliktanalyse und Konfliktlösung ist nicht Bestandteil von COSMO. Zur Vertiefung wird auf das CPSA-A-Modul SOFT verwiesen.
 
-w
 // end::DE[]
 
 // tag::EN[]
