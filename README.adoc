@@ -1,6 +1,10 @@
 = COSMO – iSAQB® Advanced Level Curriculum (COSMO)
 
 == Status
+
+### This document is a DRAFT - Work is in progresss.
+Feel free to contact the https://github.com/tasel[authors] and give feedback.
+
 image:https://github.com/isaqb-org/curriculum-cosmo/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-cosmo/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-cosmo.svg["Contributors",link="https://github.com/isaqb-org/curriculum-cosmo/graphs/contributors"]
