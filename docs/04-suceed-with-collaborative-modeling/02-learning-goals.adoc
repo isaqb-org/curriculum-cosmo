@@ -1,6 +1,8 @@
 === {learning-goals}
 
 // tag::DE[]
+Dieser Lernblock vermittelt, welche kulturellen, organisatorischen und situativen Faktoren kollaborative Architekturarbeit fördern oder behindern. Die Teilnehmenden lernen, Ausgangslagen, Randbedingungen und Störgrößen früh zu erkennen und ihren Einfluss auf Verlauf und Ergebnis einer Session einzuschätzen. So entsteht ein Lagebewusstsein, das hilft, kollaborative Arbeit wirksam vorzubereiten und gezielt zu verbessern.
+
 [[LZ-4-1]]
 ==== LZ 4-1: Erfolgsfaktoren und Randbedingungen für kollaborative Architekturarbeit kennen
 

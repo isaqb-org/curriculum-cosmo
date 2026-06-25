@@ -1,7 +1,10 @@
 === {learning-goals}
 
-
 // tag::DE[]
+
+Dieser Lernblock vermittelt einen Überblick über kollaborative Ansätze. Die Teilnehmenden lernen, passende Praktiken für unterschiedliche Situationen auszuwählen, zu kombinieren und an ihren Kontext anzupassen. Sie verstehen die jeweiligen Anforderungen an Vorbereitung, Facilitation und Teilnehmerkreis.
+
+
 [[LZ-6-1]]
 ==== LZ 6-1: Kollaborative Ansätze für die Architekturarbeit kennen
 
