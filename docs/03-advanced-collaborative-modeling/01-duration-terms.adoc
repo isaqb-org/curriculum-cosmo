@@ -7,7 +7,7 @@
 
 - Facilitation
 - Werkzeuge
-
+- Gemeinsame Sprache
 
 // end::DE[]
 
