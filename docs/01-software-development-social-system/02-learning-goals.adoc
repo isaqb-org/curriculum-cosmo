@@ -1,14 +1,14 @@
 === {learning-goals}
 
 // tag::DE[]
-Dieser Lernblock vermittelt die Grundlagen kollaborativer Architekturarbeit. Die Teilnehmenden verstehen, dass Architektur immer das Ergebnis gemeinsamer Anstrengungen ist. Sie lernen, welche Voraussetzungen erfolgreiche Kollaboration braucht und welche Faktoren Zusammenarbeit erschweren können. Darüber hinaus erkennen sie, welche Personen und Perspektiven für wirksame Architekturarbeit zusammengebracht werden müssen.
+Dieser Lernblock vermittelt die Grundlagen kollaborativer Modellierung. Die Teilnehmenden verstehen, dass Architektur immer das Ergebnis gemeinsamer Anstrengungen ist. Sie lernen, welche Voraussetzungen erfolgreiche Kollaboration braucht und welche Faktoren Zusammenarbeit erschweren können. Darüber hinaus erkennen sie, welche Personen und Perspektiven für wirksame Modellierung zusammengebracht werden müssen.
 
 [[LZ-1-1]]
-==== LZ 1-1: Impact soziotechnischer Systeme auf die Architekturarbeit verstehen
+==== LZ 1-1: Impact soziotechnischer Systeme auf die Modellierung verstehen
 
 Teilnehmende kennen den Begriff und die Implikationen des
 Konzepts soziotechnischer Systeme. Sie sind in der Lage, die Facetten
-der Architekturarbeit auf die Bausteine des soziotechnischen Systems
+der Modellierung auf die Bausteine des soziotechnischen Systems
 abzubilden.
 
 Das Training vermittelt ein detailliertes Verständnis der Bedeutung
@@ -33,13 +33,13 @@ Die Teilnehmenden verstehen, dass Vertrauen, psychologische Sicherheit, Transpar
 Die Teilnehmenden verstehen, dass Kollaboration aktiv gestaltet und kontinuierlich erhalten werden muss.
 
 [[LZ-1-3]]
-==== LZ 1-3: Relevante Kollaborationspartner in der Architekturarbeit kennen
+==== LZ 1-3: Relevante Partner für kollaborative Modellierung kennen
 
-Teilnehmende kennen typische Kollaborationspartner kollaborativer Architekturarbeit, insbesondere Entwicklungsteams, Stakeholder, Management und Benutzer:innen, sowie deren mögliche Perspektiven und Interessen.
+Teilnehmende kennen typische Kollaborationspartner kollaborativer Modellierung, insbesondere Entwicklungsteams, Stakeholder, Management und Benutzer:innen, sowie deren mögliche Perspektiven und Interessen.
 
-Teilnehmende verstehen, dass kollaborative Architekturarbeit nicht auf Personen mit der Rolle Architekt:in beschränkt ist, sondern von unterschiedlichen Rollen und Perspektiven profitieren kann.
+Teilnehmende verstehen, dass kollaborative Modellierung nicht auf Personen mit der Rolle Architekt:in beschränkt ist, sondern von unterschiedlichen Rollen und Perspektiven profitieren kann.
 
-Sie kennen typische Beteiligte kollaborativer Architekturarbeit.
+Sie kennen typische Beteiligte kollaborativer Modellierung.
 
 // end::DE[]
 

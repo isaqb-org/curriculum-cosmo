@@ -94,6 +94,10 @@ Verständnisses von fachlichen Domänen existieren.
 Sie verstehen, welche Potenziale die Einführung einer bewusst gestalteten gemeinsamen Sprache birgt
 und können erkennen, wenn eine solche fehlt.
 
+Teilnehmende verstehen, dass zu Sprache nicht nur Worte und ihre
+Bedeutung gehören, sondern auch Möglichkeiten, die Elemente der
+Sprache zu kombinieren.  <<abelseon-et-al-1996>>
+
 // end::DE[]
 
 // tag::EN[]

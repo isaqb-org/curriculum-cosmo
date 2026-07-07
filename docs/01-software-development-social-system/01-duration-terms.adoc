@@ -6,8 +6,7 @@
 === Begriffe und Konzepte
 
 - Soziotechnisches System
-- kollaborative Modellierung
-- Gemeinsame Sprache
+- Kollaboration und kollaborative Modellierung
 
 // end::DE[]
 

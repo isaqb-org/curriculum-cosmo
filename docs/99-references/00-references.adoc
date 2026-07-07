@@ -6,7 +6,9 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 // end::DE[]
 
 // tag::EN[]
-This section contains references that are cited in the curriculum.
+[[[abelseon-et-al-1996, Abelseon-et-al-1996]]]
+Harold Abelseon, Gerald Jay Sussman, Julie Sussman: Structure and Interpretation of Computer Programs. 2nd edition. MIT Press, 1996.
+http://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 // end::EN[]
 
 [NOTE]

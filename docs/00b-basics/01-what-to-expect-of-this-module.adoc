@@ -7,7 +7,7 @@ um gemeinsam im Team tragfähige Architekturen zu gestalten.
 
 Da Architekturarbeit immer im Team entsteht oder Teams beeinflusst,
 lernen die Teilnehmenden konkrete, praxiserprobte Methoden kennen,
-die echte Zusammenarbeit ermöglichen und bessere Gespräche über fachliche und technische Zusammenhänge fördern.
+die bessere Zusammenarbeit ermöglichen und bessere Gespräche über fachliche und technische Zusammenhänge fördern.
 
 Am Ende des Moduls kennen die Teilnehmenden verschiedene kollaborative Modellierungsansätze,
 verstehen deren Stärken und Grenzen und können die dahinterliegenden Prinzipien einordnen.
