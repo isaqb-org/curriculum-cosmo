@@ -14,11 +14,13 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 
 **B**
 
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P., Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass, 2003
+- [[[brandolini, Brandolini]]] Brandolini, A.: Introducing EventStorming, An act of Deliberate Collective Learning, LeanPub https://leanpub.com/introducing_eventstorming
 
 **H**
 
 - [[[harmel-law-2024, Harmel-Law 2024]]] Harmel-Law A.: Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions, O'Reilly Media, 2024
+- [[[hofer-2022, Hofer et al. 20222]]] Hofer, S., Schwentner, H.:  Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software, 2022
 
 **K**
 
@@ -30,5 +32,5 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[starke,Starke 2011]]] Starke, G.: Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München., 2011
 
