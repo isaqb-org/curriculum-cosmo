@@ -6,44 +6,27 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 // end::DE[]
 
 // tag::EN[]
-[[[abelseon-et-al-1996, Abelseon-et-al-1996]]]
-Harold Abelseon, Gerald Jay Sussman, Julie Sussman: Structure and Interpretation of Computer Programs. 2nd edition. MIT Press, 1996.
-http://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 // end::EN[]
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
+**A**
 
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
+- [[[abelseon-et-al-1996, Abelseon-et-al-1996]]] Harold Abelseon, Gerald Jay Sussman, Julie Sussman: Structure and Interpretation of Computer Programs. 2nd edition. MIT Press, 1996. http://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 
 **B**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
-
-**C**
-
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
 **H**
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[harmel-law-2024, Harmel-Law 2024]]] Harmel-Law A.: Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions, O'Reilly Media, 2024
 
 **K**
 
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[kelle-et-al, Kelle et al. 2024]]] Kelle E., Verschatse, G., Baas-Schwegler, K.: Collaborative Software Design: How to Facilitate Domain Modeling Decisions, Manning Publications, 2024
+
+**R**
+
+- [[[read-2023, Read 2023]]] Read J.: Communication Patterns: A Guide for Developers and Architects, O'Reilly Media, 2023
 
 **S**
 
