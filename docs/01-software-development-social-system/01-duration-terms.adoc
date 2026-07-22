@@ -12,9 +12,12 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+- Sociotechnical Systems
+- Collaboration and Collaborative Modeling
+
 // end::EN[]
