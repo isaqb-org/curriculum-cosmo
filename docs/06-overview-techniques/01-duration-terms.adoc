@@ -1,13 +1,13 @@
 // tag::DE[]
 |===
-|  | Übungszeit: 390 Min.
+| Dauer: 60 Min. | Übungszeit: 60 Min.
 |===
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 60 min
 |===
 
 === Terms and Principles
