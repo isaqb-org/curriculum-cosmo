@@ -13,11 +13,14 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+- Facilitation
+- Tools
+- Common Language
 
 // end::EN[]
 
