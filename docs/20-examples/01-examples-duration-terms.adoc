@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 0 Min. | Übungszeit: 390 Min.
+| Dauer: 0 Min. | Übungszeit: 210 Min.
 |===
 
 Dieser Abschnitt ist nicht prüfungsrelevant.
@@ -14,7 +14,7 @@ Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. de
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 0 min | Practice time: 210 min
 |===
 
 This section is not examinable.
