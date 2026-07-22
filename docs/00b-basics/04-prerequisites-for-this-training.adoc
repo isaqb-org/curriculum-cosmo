@@ -24,17 +24,18 @@ Architekturarbeit und Software-Entwicklung.
 // tag::EN[]
 === Prerequisites
 
-Participants **should** have the following prerequisite knowledge:
+Participants should have the following knowledge and/or experience:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- A basic understanding of software architecture and the typical challenges in this field.
+- Practical experience with the common challenges and approaches involved in architectural work in software projects.
 
-Knowledge in the following areas may be **helpful** for understanding some concepts:
+The following knowledge is **helpful** for understanding some of the concepts covered in the module:
 
-- Area 1:
-* Knowledge 1
-* Experience 2
-* Knowledge 3
-* Experience 4
-* Understanding 5
+- Working with Groups:
+* Experience with and knowledge of facilitation techniques.
+* Experience with and knowledge of structuring and running effective meetings.
+- Architecture Work
+* Experience with and knowledge of documenting and visualizing software systems, particularly software architectures.
+- Sociotechnical Aspects
+* A basic understanding of sociotechnical systems and their impact on software architecture and software development.
 // end::EN[]
