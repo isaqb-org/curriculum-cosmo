@@ -83,12 +83,50 @@ in ihrem Werkzeugkoffer spielen kann.
 // end::DE[]
 
 // tag::EN[]
+This learning block explains when and why collaborative architecture work is valuable and how it can be applied effectively. Participants learn to recognize common situations that call for collaborative modeling and assess its value in their own context. Through hands-on practice, they experience collaborative modeling firsthand and understand the role of facilitation as a means of supporting effective collaboration.
+
+
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Recognize and Assess the Need for Collaborative Architecture Work
+
+Participants are familiar with typical scenarios in which collaborative architecture work can positively influence collaboration, decision-making, and architectural quality. They understand that collaborative architecture work is particularly effective when addressing complex problems, coordinating across multiple stakeholders, or working with distributed knowledge.
+
+Participants are able to identify the need for collaborative architecture work in different scenarios, especially within their own organizational context, by recognizing and assessing symptoms such as knowledge silos, coordination problems, misunderstandings, or decision bottlenecks.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
+==== LG 2-2: Experience Collaborative Modeling in Practice
+
+Participants have experienced collaborative modeling through a practical example and actively participated in a collaborative modeling session. As a result, they understand collaborative modeling from the perspective of a participant.
+
+[[LG-2-3]]
+==== LG 2-3: Fundamentals of Facilitation
+
+Participants understand the role of the facilitator in collaborative modeling sessions and are familiar with the typical responsibilities involved in preparation, facilitation, follow-up, and review.
+
+They understand that facilitation can be performed in a lightweight manner and does not require a formal role or extensive training in facilitation methods.
+
+[[LG-2-4]]
+==== LG 2-4: Conduct a Collaborative Modeling Session
+
+Participants are able to prepare, facilitate, follow up, and review a collaborative modeling session.
+
+They can create the necessary conditions for a successful session, including arranging the physical or virtual environment, providing the required tools, and planning the schedule.
+
+Participants can facilitate a collaborative modeling session, keeping track of time, gathering feedback, and ensuring that outcomes are captured.
+
+They can document the results of a collaborative modeling session and make them available for subsequent work.
+
+After facilitating a collaborative modeling session, participants are able to reflect on their own performance and identify opportunities for improvement for future sessions.
+
+[[LG-2-5]]
+==== LG 2-5: Reflect on Collaborative Modeling
+
+Participants reflect on their practical experience with collaborative modeling by considering questions such as:
+
+* What roles did they play during the modeling session?
+* How did this approach differ from the way they have worked previously?
+
+As a result, participants understand how collaborative modeling can become part of their own professional toolkit.
+
 // end::EN[]
 
