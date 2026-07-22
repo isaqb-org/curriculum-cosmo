@@ -44,7 +44,38 @@ Sie kennen typische Beteiligte kollaborativer Modellierung.
 // end::DE[]
 
 // tag::EN[]
+
+This learning block introduces the fundamentals of collaborative modeling. Participants understand that architecture is always the result of a collective effort. They learn the prerequisites for successful collaboration and the factors that can hinder effective teamwork. In addition, they recognize which people and perspectives need to be brought together for effective collaborative modeling.
+
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+==== LG 1-1: Understand the Impact of Sociotechnical Systems on Modeling
+
+Participants understand the concept and implications of sociotechnical systems. They are able to relate the different aspects of collaborative modeling to the elements of a sociotechnical system.
+
+The training provides a detailed understanding of the significance of the elements "organizational structure", "people", "technical system", and "processes".
+
+Participants understand that these elements influence one another and that architectural decisions have an impact within the broader sociotechnical system.
+
+[[LG-1-2]]
+==== LG 1-2: Understand the Fundamentals of Human Collaboration
+
+Participants understand that people collaborate for a variety of individual and shared motivations.
+
+Participants understand which factors can encourage or hinder the willingness to collaborate.
+
+Participants are familiar with the fundamental social and organizational conditions that support successful collaboration.
+
+Participants understand that trust, psychological safety, transparency, and shared goals are important prerequisites for sustainable collaboration.
+
+Participants understand that collaboration must be actively fostered and continuously maintained.
+
+[[LG-1-3]]
+==== LG 1-3: Identify the Relevant Partners for Collaborative Modeling
+
+Participants are familiar with the typical participants involved in collaborative modeling, including development teams, stakeholders, management, and users, as well as their different perspectives and interests.
+
+Participants understand that collaborative modeling is not limited to people in the role of software architect but benefits from a diversity of roles and viewpoints.
+
+They are familiar with the typical participants in successful collaborative modeling.
+
 // end::EN[]
