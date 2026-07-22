@@ -16,7 +16,7 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 60 min
 |===
 
 === Terms and Principles
