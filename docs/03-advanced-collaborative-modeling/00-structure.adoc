@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== The Third Module's Title
+== Advanced Collaborative Modeling
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
