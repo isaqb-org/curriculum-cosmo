@@ -9,7 +9,8 @@
 | 3. Fortgeschrittene kollaborative Modellierung  | 120 | 90
 | 4. Mit kollaborativer Modellierung erfolgreich sein | 60 | 60
 | 5. Wirkung erzielen | 60 | 60
-| 6. Beispiel | | 390
+| 6. Übersicht über kollaborative Techniken | |
+| 7. Beispiel | | 390
 | Summe 2+| 1140 (19h)
 
 |===
@@ -26,8 +27,9 @@
 | 2. Fundamentals of Collaborative Modeling | 120 | 90
 | 3. Advanced Collaborative Modeling | 120 | 90
 | 4. Succeeding with Collaborative Modeling | 60 | 60
-| 5. Creating Impact | 60 | 60
-| 6. Example | | 390
+| 5. Creating Impact as Facilitator | 60 | 60
+| 6. Overview of Collaborative Techniques | |
+| 7. Example | | 390
 | Total 2+| 1140 (19h)
 
 |===
