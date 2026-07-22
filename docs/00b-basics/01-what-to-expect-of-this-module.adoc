@@ -23,6 +23,12 @@ und Entscheidungen im Team früher und klarer vorzubereiten.
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+The **{curriculum-name}** module teaches participants how to use collaborative modeling to design robust software architectures together as a team.
+
+Because architecture work is always created by teams or has an impact on them, participants learn concrete, field-tested techniques that enable better collaboration and foster more productive discussions about business and technical concerns.
+
+By the end of the module, participants will be familiar with a range of collaborative modeling approaches, understand their strengths and limitations, and be able to place them in the context of the underlying principles. They will be able to contribute effectively to modeling sessions, prepare and facilitate at least one collaborative modeling workshop themselves, and establish collaborative modeling practices within their own projects.
+
+In addition, the module equips participants to make complexity visible and to prepare team decisions earlier and with greater clarity.
+
 // end::EN[]
