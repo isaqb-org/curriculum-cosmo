@@ -22,13 +22,13 @@
 [cols="<,>,>", options="header"]
 |===
 | Content | Recommended minimum duration (minutes) | Exercises (minutes)
-| 1. Introduction | 180 |
-| 2. xz | 150 |
-| 3. Lots of theory | 120 |
-| 4. xy and example | 180 |
-| 5. abc and d | 210 |
-| 6. Final example | 120 |
-| Total 2+| 960 (16h)
+| 1. Software Development as a Social System | 60 | 30
+| 2. Fundamentals of Collaborative Modeling | 120 | 90
+| 3. Advanced Collaborative Modeling | 120 | 90
+| 4. Succeeding with Collaborative Modeling | 60 | 60
+| 5. Creating Impact | 60 | 60
+| 6. Example | | 390
+| Total 2+| 1140 (19h)
 
 |===
 
