@@ -15,10 +15,14 @@
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 120 min | Practice time: 90 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+
+- Facilitation
+- Preparation
+- Follow-up and Review
+- Roles in Collaborative Modeling
 
 // end::EN[]
