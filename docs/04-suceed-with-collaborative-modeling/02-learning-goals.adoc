@@ -161,11 +161,161 @@ Arbeit einbezogen werden können.
 // end::DE[]
 
 // tag::EN[]
+This learning block explores the cultural, organisational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
+
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: Identify Success Factors and Constraints for Collaborative Architecture Work
+
+Participants understand that the presence or absence of suitable cultural
+conditions within an organisation influences collaborative architecture
+work.
+
+Participants learn to identify constraints and requirements that
+directly affect architecture work.
+
+The training provides practical guidance on how people with
+responsibility for architecture can influence organisational conditions
+and how to respond when such influence is not possible.
+
+Participants understand the importance of securing buy-in from relevant
+stakeholders for effective collaborative architecture work.
+
+They know practices for assessing existing buy-in and for revealing or
+strengthening missing buy-in.
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
+==== LG 4-2: Assess the Impact of Collaborative Sessions on Architecture Work
+
+Participants develop an awareness of the effects of collaborative design
+sessions, particularly their impact on existing plans and designs.
+
+Participants understand that the timing, scope, and participant group of
+a session can significantly affect its energy and, consequently, the
+course of a development initiative.
+
+[[LG-4-3]]
+==== LG 4-3: Assess the Initial Situation for Collaborative Architecture Work
+
+Participants understand situational awareness as the ability to
+realistically assess the initial situation of a socio-technical system in
+terms of people, organisation, collaboration, and constraints.
+
+They understand that insufficient situational awareness can result in
+unrealistic expectations, unsuitable formats, or ineffective
+collaborative architecture work.
+
+Participants know practices for building situational awareness and
+continuously refining it throughout collaborative work.
+
+[[LG-4-4]]
+==== LG 4-4: Clarify the Initial Situation of a Specific Collaborative Session
+
+Participants understand that an effective collaborative session requires
+a clear understanding of the task, the available knowledge, and existing
+knowledge gaps.
+
+They are able to identify relevant knowledge sources, interests, and
+perspectives required to address the task.
+
+Participants know practices for preparing and visualising the initial
+situation of a session and validating it with the participants.
+
+[[LG-4-5]]
+==== LG 4-5: Turn Spontaneous Meetings into Structured Collaborative Modelling Sessions
+
+Participants understand that spontaneous discussions about architecture
+and modelling can benefit from collaborative modelling.
+
+They are familiar with measures for quickly introducing an appropriate
+structure in such situations, including clarification of goals, the
+question to be addressed, the available time, the participants, and
+the expected outcome.
+
+Participants know simple facilitation and questioning techniques for
+turning an unstructured discussion into a collaborative modelling
+session.
+
+They understand that prepared working environments and readily available
+tools, such as architecture walls, whiteboards, pens, and sticky notes,
+support spontaneous collaborative sessions.
+
+Participants know practices for documenting the results of a spontaneous
+session and deriving next steps.
+
+[[LG-4-6]]
+==== LG 4-6: Recognise Behavioural Patterns That Support or Hinder Collaborative Architecture Work
+
+Participants understand that organisational behaviour and cultural
+conditions can significantly affect collaborative architecture work.
+
+They know typical behavioural patterns and cultural characteristics that
+can support or hinder collaborative architecture work.
+
+Participants understand that establishing collaborative ways of working
+often requires changes to existing habits, communication patterns, and
+perceptions of responsibility.
+
+They are able to identify areas in which behavioural change may be
+necessary to establish collaborative architecture work effectively.
+
+Participants understand that existing communication, decision-making,
+and responsibility structures can affect the adoption of collaborative
+ways of working.
+
+[[LG-4-7]]
+==== LG 4-7: Identify Disruptions and Barriers in Collaborative Sessions
+
+Participants understand that power imbalances, dominant participants,
+and dissenting opinions can be intimidating and can significantly reduce
+the expected quality of a collaborative session.
+
+Participants know methods for preparing and facilitating collaborative
+sessions in ways that identify and mitigate potential disruptions.
+
+[[LG-4-8]]
+==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Sessions
+
+Participants understand that organisational and logistical conditions
+can significantly affect the course and outcome of collaborative
+sessions.
+
+They understand the importance of breaks, energy levels, and session
+rhythm during extended periods of collaborative work.
+
+Participants understand that suitable refreshments, appropriate working
+environments, and deliberate pauses can support concentration and
+collaboration.
+
+They understand that informal interaction and socialising can foster
+trust, networking, and sustainable collaboration.
+
+[[LG-4-9]]
+==== LG 4-9: Understand Inclusion and Diversity as Success Factors for Collaborative Architecture Work
+
+Participants understand that collaborative architecture work can help
+ensure that underrepresented groups have an equal voice.
+
+They understand that collaborative sessions can make the perspectives of
+underrepresented groups visible and open to discussion, whereas such
+perspectives may easily be overlooked in centralised or hierarchical
+decision-making processes.
+
+Participants understand that diverse groups can bring a broader range of
+experiences, needs, and perspectives into architecture work.
+
+They know ways of designing collaborative formats that enable different
+perspectives to be contributed effectively and considered appropriately.
+
+Participants understand the fundamental principle that everyone involved
+in a collaborative session contributes different knowledge, experiences,
+roles, positions, abilities, and backgrounds.
+
+They also understand that everyone involved has an equal right to be
+acknowledged, to speak, and to contribute to the collaborative
+architecture work.
+
+Participants know facilitation practices for making different
+perspectives visible and including them in collaborative work with equal
+respect.
+
 // end::EN[]

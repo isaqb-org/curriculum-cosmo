@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== Achieving Success with Collaborative Modelling
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
