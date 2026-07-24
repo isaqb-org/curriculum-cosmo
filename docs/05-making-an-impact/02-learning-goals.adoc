@@ -91,7 +91,7 @@ They understand the differences between these categories and can relate them to 
 
 A detailed understanding of specific methods (e.g., Shannon–Weaver) is not part of COSMO.
 
-[[LZ-5-3]]
+[[LG-5-3]]
 ==== LG 5-3: Being able to act neutrally as a facilitator
 
 Participants understand the importance of a neutral stance for facilitators. They understand that conflicts of interest on the part of the facilitator can reduce the effectiveness of collaborative sessions, and that other, potentially external, individuals can serve as facilitators to mitigate this.
@@ -102,7 +102,7 @@ Participants understand the importance of a neutral stance for facilitators. The
 Participants understand that the perception of the facilitator role also requires facilitation skills. They understand, in particular, that different practices may require different facilitation skills. The training imparts facilitation skills to an extent appropriate for the role.
 
 
-[[LZ-5-5]]
+[[LG-5-5]]
 ==== LG 5-5: Being able to deal with disagreement in collaborative sessions
 
 Participants understand that disagreement in collaborative modeling sessions is a normal part of joint architecture work.
