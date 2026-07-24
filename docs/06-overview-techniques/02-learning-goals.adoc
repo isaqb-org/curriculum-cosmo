@@ -23,7 +23,7 @@ wie:
 
 Teilnehmende können anhand von praktischen Szenarien entscheiden,
 welche Technik in welcher Situation anwendbar ist (Beispiel:
-Anforderungsanalyse, Beispiel: Modellierung).
+Anforderungsanalyse, Modellierung).
 
 Für die im Training konkret behandelten Praktiken sind Teilnehmende in der Lage, erforderliche Vorbereitungen
 zu treffen, kollaborative Sessions zu leiten und nachzubereiten.
@@ -57,12 +57,40 @@ Teilnehmende die Erfordernisse an:
 // end::DE[]
 
 // tag::EN[]
+
+This learning block provides an overview of collaborative approaches. Participants learn how to select, combine, and adapt suitable practices for different situations and contexts. They understand the respective requirements regarding preparation, facilitation, and the group of participants.
+
 [[LG-6-1]]
-==== LG 6-1: TBD
-tbd.
+==== LG 6-1: Know collaborative approaches for architecture work
+
+Participants have gained an overview of collaborative approaches and have learned individual practices that are particularly valuable for architecture work in detail.
+
+Participants know collaborative modeling techniques for areas such as:
+
+- Domain Exploration and Discovery
+- Software Design
+- Requirements Clarification
+- Organization
+- Strategic Consideration
+
+Participants can decide, based on practical scenarios, which technique is applicable in which situation (e.g., requirements analysis, modeling).
+Participants are able to make the necessary preparations for the practices covered in the training, to lead collaborative sessions, and to follow up afterwards.
 
 [[LG-6-2]]
-==== LG 6-2: TBD
-tbd.
+==== LG 6-2: Be able to select suitable collaborative approaches for the individual context
+
+Participants can decide which collaborative formats are suitable for which situation. To do this, participants know the characteristic features of the presented methods and understand which conditions are crucial for the success of each method. They know how to combine collaborative modeling techniques.
+
+Participants understand how the prevailing conditions and expectations in the organizational context affect the preparation, execution, and follow-up of collaborative sessions.
+
+[[LG-6-3]]
+==== LG 6-3: Know specific requirements for the presented approaches
+
+For all presented approaches, practices, and methods, participants know the requirements for
+
+- Facilitator
+- Location and space
+- Group of participants
+
 // end::EN[]
 
