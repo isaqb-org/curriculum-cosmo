@@ -53,7 +53,7 @@ include::02-collaborative-modeling-basics/00-structure.adoc[{include_configurati
 include::03-advanced-collaborative-modeling/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-suceed-with-collaborative-modeling/00-structure.adoc[{include_configuration}]
+include::04-succeed-with-collaborative-modeling/00-structure.adoc[{include_configuration}]
 
 <<<
 include::05-making-an-impact/00-structure.adoc[{include_configuration}]
