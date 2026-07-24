@@ -13,7 +13,7 @@
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 60 min
+| Duration: 120 min | Practice time: 90 min
 |===
 
 === Terms and Principles

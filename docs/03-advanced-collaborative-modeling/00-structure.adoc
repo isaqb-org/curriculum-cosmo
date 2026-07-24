@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Advanced Collaborative Modeling
+== Advanced Collaborative Modelling
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
