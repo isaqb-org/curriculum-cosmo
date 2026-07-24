@@ -25,6 +25,7 @@ This section contains references that are cited in whole or in part throughout t
 
 **K**
 
+- [[[kaner-2007, Kaner 2007]]] Kaner, S.: Facilitator's Guide to Participatory Decision-Making. 2nd edition. Jossey-Bass, 2007
 - [[[kelle-et-al, Kelle et al. 2024]]] Kelle E., Verschatse, G., Baas-Schwegler, K.: Collaborative Software Design: How to Facilitate Domain Modeling Decisions, Manning Publications, 2024
 **P**
 
