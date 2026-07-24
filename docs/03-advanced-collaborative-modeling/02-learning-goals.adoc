@@ -169,7 +169,7 @@ for different organisational, social, or spatial contexts.
 Participants are able to assess how session format (in-person vs.
 remote), group dynamics, degree of interaction, and organisational
 conditions influence the course and success of collaborative modelling
-and derive appropriate measures for the selected format.
+and derive appropriate measures for the chosen format.
 
 They understand that consciously selecting or adapting a collaborative
 format can help reduce risks and increase the effectiveness of a
@@ -181,7 +181,7 @@ on group dynamics, interaction requirements, and the organisational
 context.
 
 [[LG-3-5]]
-==== LG 3-5: Develop and Foster a Common Language
+==== LG 3-5: Understand the Importance of a Common Language
 
 Participants understand the importance of language and a shared
 understanding of terminology for collaborative architecture work. They

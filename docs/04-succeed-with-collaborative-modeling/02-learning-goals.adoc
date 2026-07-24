@@ -164,7 +164,7 @@ Arbeit einbezogen werden können.
 This learning block explores the cultural, organisational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
 
 [[LG-4-1]]
-==== LG 4-1: Identify Success Factors and Constraints for Collaborative Architecture Work
+==== LG 4-1: Identify Enabling Factors and Constraints for Collaborative Architecture Work
 
 Participants understand that the presence or absence of suitable cultural
 conditions within an organisation influences collaborative architecture
@@ -180,7 +180,7 @@ and how to respond when such influence is not possible.
 Participants understand the importance of securing buy-in from relevant
 stakeholders for effective collaborative architecture work.
 
-They know practices for assessing existing buy-in and for revealing or
+They are familiar with practices for assessing existing buy-in and for revealing or
 strengthening missing buy-in.
 
 [[LG-4-2]]
@@ -197,14 +197,14 @@ course of a development initiative.
 ==== LG 4-3: Assess the Initial Situation for Collaborative Architecture Work
 
 Participants understand situational awareness as the ability to
-realistically assess the initial situation of a socio-technical system in
+realistically assess the initial situation of a sociotechnical system in
 terms of people, organisation, collaboration, and constraints.
 
 They understand that insufficient situational awareness can result in
 unrealistic expectations, unsuitable formats, or ineffective
 collaborative architecture work.
 
-Participants know practices for building situational awareness and
+Participants are familiar with practices for building situational awareness and
 continuously refining it throughout collaborative work.
 
 [[LG-4-4]]
@@ -217,7 +217,7 @@ knowledge gaps.
 They are able to identify relevant knowledge sources, interests, and
 perspectives required to address the task.
 
-Participants know practices for preparing and visualising the initial
+Participants are familiar with practices for preparing and visualising the initial
 situation of a session and validating it with the participants.
 
 [[LG-4-5]]
@@ -239,7 +239,7 @@ They understand that prepared working environments and readily available
 tools, such as architecture walls, whiteboards, pens, and sticky notes,
 support spontaneous collaborative sessions.
 
-Participants know practices for documenting the results of a spontaneous
+Participants are familiar with practices for documenting the results of a spontaneous
 session and deriving next steps.
 
 [[LG-4-6]]
