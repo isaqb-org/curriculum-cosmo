@@ -8,20 +8,16 @@
 - Kultur
 - Randbedingungen
 - Energie eines Meetings
-
-
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 60 min
+| Duration: 60 min. | Exercise time: 60 min.
 |===
 
-=== Terms and Principles
+=== Terms and Concepts
 
-- Culture
+- Organisational Culture
 - Constraints
-- Meeting energy
-
+- Meeting Energy
 // end::EN[]
-
