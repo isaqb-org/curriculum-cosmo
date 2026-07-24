@@ -64,11 +64,53 @@ Ein detailliertes Verständnis von Konfliktanalyse und Konfliktlösung ist nicht
 // end::DE[]
 
 // tag::EN[]
+
+This learning block introduces the communicative foundations of effective facilitation. Participants learn how to support collaborative sessions through clear communication, active listening, and a neutral stance. They understand how different forms of communication shape collaboration and how to deal constructively with disagreement.
+
 [[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+==== LG 5-1: Being able to facilitate collaborative sessions
+
+Participants know basic facilitation techniques for designing workshops.
+
+They understand the importance of the following skills for facilitation and are familiar with practices to apply or acquire them
+
+- Clear communication
+- Active listening
+- Creating a safe environment
 
 [[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
+==== LG 5-2: Knowing basic communication models
+
+Participants have an overview of these three types of communication models:
+
+- Linear communication
+- Interactive communication
+- Transactional communication
+
+They understand the differences between these categories and can relate them to typical situations in everyday software development (e.g., meetings, design workshops, pair programming).
+
+A detailed understanding of specific methods (e.g., Shannon–Weaver) is not part of COSMO.
+
+[[LZ-5-3]]
+==== LG 5-3: Being able to act neutrally as a facilitator
+
+Participants understand the importance of a neutral stance for facilitators. They understand that conflicts of interest on the part of the facilitator can reduce the effectiveness of collaborative sessions, and that other, potentially external, individuals can serve as facilitators to mitigate this.
+
+[[LG-5-4]]
+==== LG 5-4: Mastering basic facilitation skills
+
+Participants understand that the perception of the facilitator role also requires facilitation skills. They understand, in particular, that different practices may require different facilitation skills. The training imparts facilitation skills to an extent appropriate for the role.
+
+
+[[LZ-5-5]]
+==== LG 5-5: Being able to deal with disagreement in collaborative sessions
+
+Participants understand that disagreement in collaborative modeling sessions is a normal part of joint architecture work.
+
+Participants can contribute as facilitators to making different assumptions and mental models visible and guiding the group toward a shared understanding of the design task.
+
+They are familiar with ways to promote ownership and consensus-building without overlooking or prematurely resolving technical differences.
+
+A detailed understanding of conflict analysis and conflict resolution is not part of COSMO. For further study, the CPSA-A module SOFT is recommended.
+
 // end::EN[]
