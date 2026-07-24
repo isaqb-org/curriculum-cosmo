@@ -12,7 +12,7 @@ die bessere Zusammenarbeit ermöglichen und bessere Gespräche über fachliche u
 Am Ende des Moduls kennen die Teilnehmenden verschiedene kollaborative Modellierungsansätze,
 verstehen deren Stärken und Grenzen und können die dahinterliegenden Prinzipien einordnen.
 Sie sind in der Lage, an Modellierungssessions konstruktiv mitzuwirken,
-mindestens eine Methode selbst vorzubereiten und durchzuführen
+mindestens eine Methode selbst vorzubereiten und durchzuführen,
 sowie kollaborative Modellierung in ihren Projekten zu etablieren.
 
 Darüber hinaus befähigt das Modul die Teilnehmenden,
