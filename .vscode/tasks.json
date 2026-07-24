@@ -4,12 +4,93 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "gradle",
+            "label": "build: all (curriculum)",
             "type": "shell",
-            "command": "gradle",
+            "command": "./curriculum-build.sh",
+            "windows": {
+                "command": ".\\curriculum-build.bat"
+            },
+            "linux": {
+                "command": "./curriculum-build.sh"
+            },
+            "osx": {
+                "command": "./curriculum-build.sh"
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
+            }
+        },
+        {
+            "label": "build: pdf DE",
+            "type": "shell",
+            "command": "./curriculum-build.sh",
+            "args": [
+                "pdf",
+                "DE"
+            ],
+            "windows": {
+                "command": ".\\curriculum-build.bat"
+            },
+            "linux": {
+                "command": "./curriculum-build.sh"
+            },
+            "osx": {
+                "command": "./curriculum-build.sh"
+            }
+        },
+        {
+            "label": "build: html EN",
+            "type": "shell",
+            "command": "./curriculum-build.sh",
+            "args": [
+                "html",
+                "EN"
+            ],
+            "windows": {
+                "command": ".\\curriculum-build.bat"
+            },
+            "linux": {
+                "command": "./curriculum-build.sh"
+            },
+            "osx": {
+                "command": "./curriculum-build.sh"
+            }
+        },
+        {
+            "label": "build: pdf EN",
+            "type": "shell",
+            "command": "./curriculum-build.sh",
+            "args": [
+                "pdf",
+                "EN"
+            ],
+            "windows": {
+                "command": ".\\curriculum-build.bat"
+            },
+            "linux": {
+                "command": "./curriculum-build.sh"
+            },
+            "osx": {
+                "command": "./curriculum-build.sh"
+            }
+        },
+        {
+            "label": "build: html DE",
+            "type": "shell",
+            "command": "./curriculum-build.sh",
+            "args": [
+                "html",
+                "DE"
+            ],
+            "windows": {
+                "command": ".\\curriculum-build.bat"
+            },
+            "linux": {
+                "command": "./curriculum-build.sh"
+            },
+            "osx": {
+                "command": "./curriculum-build.sh"
             }
         }
     ]
