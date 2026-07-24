@@ -2,7 +2,7 @@
 
 // tag::DE[]
 [[LZ-20-1]]
-==== LZ 20-1:
+==== LZ 20-1: Vorbereitung, Durchführung und Nachbereitung von kollaborativer Modellierung kennenlernen
 
 Teilnehmende sollen im Rahmen des Beispiels vor allem die Durchführung,
 Vorbereitung und Nachbereitung von kollaborativer Modellierung als
@@ -13,7 +13,7 @@ Teilnehmer und Moderator kennenlernen.
 
 // tag::EN[]
 [[LG-20-1]]
-==== LG 20-1: Last learning goal of the curriculum
+==== LG 20-1: Getting to know preparation, execution, and follow-up of collaborative modeling
 
 Within the example exercise, participants become familiar with preparing, conducting, and following up on collaborative modeling sessions — both in the role of participants and in the role of facilitators.
 
