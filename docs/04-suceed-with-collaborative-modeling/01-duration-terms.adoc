@@ -17,11 +17,11 @@
 | Duration: 60 min | Practice time: 60 min
 |===
 
+=== Terms and Principles
+
 - Culture
 - Constraints
 - Meeting energy
 
-=== Terms and Principles
-Term 1, Term 2, Term 3
 // end::EN[]
 
