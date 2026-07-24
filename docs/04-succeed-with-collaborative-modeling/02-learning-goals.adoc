@@ -76,7 +76,7 @@ Werkzeuge, beispielsweise Architekturwände, Whiteboards, Stifte und
 Sticky Notes, spontane kollaborative Sessions erleichtern.
 
 Teilnehmende kennen Praktiken, um Ergebnisse einer spontanen Session sichtbar zu machen,
-sichern und nächste Schritte ableiten.
+zu sichern und nächste Schritte abzuleiten.
 
 
 [[LZ-4-6]]
@@ -97,7 +97,7 @@ Sie können Handlungsfelder identifizieren, in denen
 Verhaltensänderungen notwendig sein können, um kollaborative
 Architekturarbeit wirksam zu etablieren.
 
-Teilnehmende verstehen, dass, sich bestehende Kommunikations-,
+Teilnehmende verstehen, dass sich bestehende Kommunikations-,
 Entscheidungs- und Verantwortungsstrukturen auf die Etablierung
 kollaborativer Arbeitsweisen auswirken können.
 
