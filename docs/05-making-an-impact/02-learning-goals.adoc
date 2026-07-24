@@ -38,7 +38,7 @@ Ein detailliertes Verständnis von spezifischen Methoden
 ==== LZ 5-3: Als Facilitator neutral agieren können
 
 Teilnehmende verstehen die Bedeutung einer neutralen Haltung des Facilitators.
-Sie verstehen, dass Interessenskonflikte durch den Facilitator den Erfolg kollaborativer
+Sie verstehen, dass Interessenkonflikte durch den Facilitator den Erfolg kollaborativer
 Sessions schmälern können und dass andere, potenziell externe, Personen als Facilitator
 eine Lösung dafür sein können.
 
