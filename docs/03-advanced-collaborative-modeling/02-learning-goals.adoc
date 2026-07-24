@@ -116,7 +116,7 @@ In particular, they are familiar with:
 - Templates from relevant communities
 
 Participants are able to describe the strengths, limitations, and typical
-areas of application of these tools and select suitable tools for their
+use cases of these tools and select suitable tools for their
 individual context.
 
 Participants are able to use a selection of tools confidently enough to
@@ -126,8 +126,8 @@ prepare, facilitate, and document collaborative modelling sessions.
 ==== LG 3-2: Identify Roles and Participants for Collaborative Sessions
 
 Participants understand that the success and lasting positive impact of
-collaborative sessions largely depend on the composition of the group of
-participants.
+collaborative sessions largely depends on the composition of the
+participant group.
 
 Participants are able to identify the relevant skills and
 responsibilities required for a given context.
@@ -140,7 +140,7 @@ participants can contribute to the design, regardless of their formal
 role in the software development process.
 
 Participants are able to assess the implications of a person acting both
-as facilitator and as an active contributor to the design.
+as facilitator and as an active designer.
 
 [[LG-3-3]]
 ==== LG 3-3: Visualise Information Interactively During Collaborative Sessions
@@ -151,9 +151,8 @@ modelling session through listening, asking questions, and visualising.
 They understand that, in such situations, the facilitator role combines
 aspects of moderation, interviewing, translation, and visualisation.
 
-Participants are able to transform what they hear into a model that is
-understandable for the group and to evolve this model collaboratively
-step by step.
+Participants are able to transform what they hear into a model that the group can understand
+and to evolve this model collaboratively step by step.
 
 They are able to use visualisation deliberately to involve inexperienced
 participants in the modelling process and foster a shared understanding.
@@ -189,7 +188,7 @@ understanding of terminology for collaborative architecture work. They
 understand the need to continuously question and refine terminology.
 
 Participants know the challenges involved in developing a shared
-understanding of business domains.
+understanding of problem domains.
 
 They understand the benefits of establishing a deliberately designed
 common language and are able to recognise when such a language is
