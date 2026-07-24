@@ -14,4 +14,7 @@ Teilnehmer und Moderator kennenlernen.
 // tag::EN[]
 [[LG-98-1]]
 ==== LG 98-1: Last learning goal of the curriculum
+
+Within the example exercise, participants become familiar with preparing, conducting, and following up on collaborative modeling sessions — both in the role of participants and in the role of facilitators.
+
 // end::EN[]
