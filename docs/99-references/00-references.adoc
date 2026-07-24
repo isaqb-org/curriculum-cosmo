@@ -29,6 +29,7 @@ This section contains references that are cited in whole or in part throughout t
 
 **R**
 
+- [[[rayner-2023, Rayner 2023]]] Rayner, P.: The EventStorming Handbook. LeanPub https://leanpub.com/eventstorming_handbook
 - [[[read-2023, Read 2023]]] Read J.: Communication Patterns: A Guide for Developers and Architects, O'Reilly Media, 2023
 
 **S**
