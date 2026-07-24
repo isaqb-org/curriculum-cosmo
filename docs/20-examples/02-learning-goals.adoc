@@ -1,8 +1,8 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-98-1]]
-==== LZ 6-1: 
+[[LZ-20-1]]
+==== LZ 20-1:
 
 Teilnehmende sollen im Rahmen des Beispiels vor allem die Durchführung,
 Vorbereitung und Nachbereitung von kollaborativer Modellierung als
@@ -12,8 +12,8 @@ Teilnehmer und Moderator kennenlernen.
 
 
 // tag::EN[]
-[[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+[[LG-20-1]]
+==== LG 20-1: Last learning goal of the curriculum
 
 Within the example exercise, participants become familiar with preparing, conducting, and following up on collaborative modeling sessions — both in the role of participants and in the role of facilitators.
 
