@@ -26,6 +26,9 @@ This section contains references that are cited in whole or in part throughout t
 **K**
 
 - [[[kelle-et-al, Kelle et al. 2024]]] Kelle E., Verschatse, G., Baas-Schwegler, K.: Collaborative Software Design: How to Facilitate Domain Modeling Decisions, Manning Publications, 2024
+**P**
+
+- [[[patton-2014, Patton & Economy 2014]]] Patton, J., Economy, P.: Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly Media, 2014
 
 **R**
 
