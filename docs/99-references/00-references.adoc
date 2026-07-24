@@ -6,6 +6,7 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 // end::DE[]
 
 // tag::EN[]
+This section contains references that are cited in whole or in part throughout the curriculum.
 // end::EN[]
 
 **A**
