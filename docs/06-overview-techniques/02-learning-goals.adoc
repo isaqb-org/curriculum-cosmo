@@ -86,7 +86,7 @@ Participants understand how the prevailing conditions and expectations in the or
 [[LG-6-3]]
 ==== LG 6-3: Know specific requirements for the presented approaches
 
-For all presented approaches, practices, and methods, participants know the requirements for
+For all presented approaches, practices, and methods, participants know the requirements for:
 
 - Facilitator
 - Location and space
