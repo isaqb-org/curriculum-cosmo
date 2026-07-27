@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Changes in 2025.1](#changes-in-20261)
+- [Changes in 2026.1](#changes-in-20261)
 
 # Changes in 2026.1 RC1
 
