@@ -13,7 +13,7 @@ Teilnehmer und Moderator kennenlernen.
 
 // tag::EN[]
 [[LG-20-1]]
-==== LG 20-1: Getting to know preparation, execution, and follow-up of collaborative modeling
+==== LG 20-1: Getting to Know Preparation, Execution, and Follow-up of Collaborative Modeling
 
 Within the example exercise, participants become familiar with preparing, conducting, and following up on collaborative modeling sessions — both in the role of participants and in the role of facilitators.
 
