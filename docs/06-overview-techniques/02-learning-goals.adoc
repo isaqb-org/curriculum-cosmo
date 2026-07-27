@@ -32,7 +32,7 @@ zu treffen, kollaborative Sessions zu leiten und nachzubereiten.
 ==== LZ 6-2: Geeignete kollaborative Ansätze für den individuellen Kontext auswählen können
 
 Teilnehmende können entscheiden, welche kollaborativen Formate für
-welche Situation geeignet sind. Dazu kennen Teilnehmenden die
+welche Situation geeignet sind. Dazu kennen Teilnehmende die
 charakteristischen Merkmale der vorgestellten Methoden und verstehen,
 welche Randbedingungen für den Erfolg der jeweiligen Methode
 maßgeblich sind. Sie kennen Möglichkeiten zur Kombination von
@@ -61,7 +61,7 @@ Teilnehmende die Erfordernisse an:
 This learning block provides an overview of collaborative approaches. Participants learn how to select, combine, and adapt suitable practices for different situations and contexts. They understand the respective requirements regarding preparation, facilitation, and the group of participants.
 
 [[LG-6-1]]
-==== LG 6-1: Know collaborative approaches for architecture work
+==== LG 6-1: Know Collaborative Approaches for Architecture Work
 
 Participants have gained an overview of collaborative approaches and have learned individual practices that are particularly valuable for architecture work in detail.
 
@@ -77,14 +77,14 @@ Participants can decide, based on practical scenarios, which technique is applic
 Participants are able to make the necessary preparations for the practices covered in the training, to lead collaborative sessions, and to follow up afterwards.
 
 [[LG-6-2]]
-==== LG 6-2: Be able to select suitable collaborative approaches for the individual context
+==== LG 6-2: Be Able to Select Suitable Collaborative Approaches for the Individual Context
 
 Participants can decide which collaborative formats are suitable for which situation. To do this, participants know the characteristic features of the presented methods and understand which conditions are crucial for the success of each method. They know how to combine collaborative modeling techniques.
 
 Participants understand how the prevailing conditions and expectations in the organizational context affect the preparation, execution, and follow-up of collaborative sessions.
 
 [[LG-6-3]]
-==== LG 6-3: Know specific requirements for the presented approaches
+==== LG 6-3: Know Specific Requirements for the Presented Approaches
 
 For all presented approaches, practices, and methods, participants know the requirements for:
 

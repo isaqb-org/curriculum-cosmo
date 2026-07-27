@@ -11,7 +11,7 @@ This section contains references that are cited in whole or in part throughout t
 
 **A**
 
-- [[[abelseon-et-al-1996, Abelseon-et-al-1996]]] Harold Abelseon, Gerald Jay Sussman, Julie Sussman: Structure and Interpretation of Computer Programs. 2nd edition. MIT Press, 1996. http://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
+- [[[abelson-et-al-1996, Abelson-et-al-1996]]] Harold Abelson, Gerald Jay Sussman, Julie Sussman: Structure and Interpretation of Computer Programs. 2nd edition. MIT Press, 1996. http://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 
 **B**
 
@@ -21,7 +21,7 @@ This section contains references that are cited in whole or in part throughout t
 **H**
 
 - [[[harmel-law-2024, Harmel-Law 2024]]] Harmel-Law A.: Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions, O'Reilly Media, 2024
-- [[[hofer-2022, Hofer et al. 20222]]] Hofer, S., Schwentner, H.:  Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software, 2022
+- [[[hofer-2022, Hofer et al. 2022]]] Hofer, S., Schwentner, H.:  Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software, 2022
 
 **K**
 

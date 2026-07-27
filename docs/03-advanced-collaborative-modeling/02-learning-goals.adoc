@@ -3,8 +3,6 @@
 // tag::DE[]
 Dieser Lernblock vermittelt die praktischen Grundlagen kollaborativer Modellierung. Die Teilnehmenden lernen, Werkzeuge gezielt einzusetzen, passende Beteiligte einzubinden und Informationen während einer Session sichtbar zu machen. Sie verstehen, wie Format, Gruppenzusammensetzung und gemeinsame Sprache den Erfolg einer Session beeinflussen.
 
-
-
 [[LZ-3-1]]
 ==== LZ 3-1: Werkzeuge für kollaborative Modellierung auswählen und nutzen können
 
@@ -96,16 +94,108 @@ und können erkennen, wenn eine solche fehlt.
 
 Teilnehmende verstehen, dass zu Sprache nicht nur Worte und ihre
 Bedeutung gehören, sondern auch Möglichkeiten, die Elemente der
-Sprache zu kombinieren.  <<abelseon-et-al-1996>>
+Sprache zu kombinieren.  <<abelson-et-al-1996>>
 
 // end::DE[]
 
 // tag::EN[]
+This learning block provides the practical foundations of collaborative modelling. Participants learn how to use tools effectively, involve the right stakeholders, and make information visible throughout a session. They understand how session format, group composition, and a shared language influence the success of a session.
+
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: Select and Use Tools for Collaborative Modelling
+
+Participants are familiar with common analogue and digital tools for
+collaborative modelling and are able to assess their suitability for
+different session formats.
+
+In particular, they are familiar with:
+
+- Analogue whiteboards, pens, and paper
+- Sticky notes and other tactile working materials
+- Digital whiteboards, such as Miro or Mural
+- Templates from relevant communities
+
+Participants are able to describe the strengths, limitations, and typical
+use cases of these tools and select suitable tools for their
+individual context.
+
+Participants are able to use a selection of tools confidently enough to
+prepare, facilitate, and document collaborative modelling sessions.
 
 [[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
+==== LG 3-2: Identify Roles and Participants for Collaborative Sessions
+
+Participants understand that the success and lasting positive impact of
+collaborative sessions largely depends on the composition of the
+participant group.
+
+Participants are able to identify the relevant skills and
+responsibilities required for a given context.
+
+Participants are able to distinguish the facilitator role from actively
+contributing to architecture and design decisions.
+
+They understand that, in collaborative architecture work, many
+participants can contribute to the design, regardless of their formal
+role in the software development process.
+
+Participants are able to assess the implications of a person acting both
+as facilitator and as an active designer.
+
+[[LG-3-3]]
+==== LG 3-3: Visualise Information Interactively During Collaborative Sessions
+
+Participants are able to capture information during a collaborative
+modelling session through listening, asking questions, and visualising.
+
+They understand that, in such situations, the facilitator role combines
+aspects of moderation, interviewing, translation, and visualisation.
+
+Participants are able to transform what they hear into a model that the group can understand
+and to evolve this model collaboratively step by step.
+
+They are able to use visualisation deliberately to involve inexperienced
+participants in the modelling process and foster a shared understanding.
+
+[[LG-3-4]]
+==== LG 3-4: Decide Between In-Person and Remote Formats for Collaborative Modelling Sessions
+
+Participants are familiar with the typical strengths and weaknesses of
+in-person and remote sessions in collaborative architecture work.
+
+They understand that not every collaborative format is equally suitable
+for different organisational, social, or spatial contexts.
+
+Participants are able to assess how session format (in-person vs.
+remote), group dynamics, degree of interaction, and organisational
+conditions influence the course and success of collaborative modelling
+and derive appropriate measures for the chosen format.
+
+They understand that consciously selecting or adapting a collaborative
+format can help reduce risks and increase the effectiveness of a
+session.
+
+Participants are able to justify whether an in-person or remote format
+is more appropriate for a given collaborative modelling session, based
+on group dynamics, interaction requirements, and the organisational
+context.
+
+[[LG-3-5]]
+==== LG 3-5: Understand the Importance of a Common Language
+
+Participants understand the importance of language and a shared
+understanding of terminology for collaborative architecture work. They
+understand the need to continuously question and refine terminology.
+
+Participants know the challenges involved in developing a shared
+understanding of problem domains.
+
+They understand the benefits of establishing a deliberately designed
+common language and are able to recognise when such a language is
+missing.
+
+Participants understand that language comprises not only words and their
+meaning, but also the ways in which the elements of a language can be
+combined. <<abelson-et-al-1996>>
+
 // end::EN[]

@@ -2,7 +2,6 @@
 
 == Status
 
-### This document is a DRAFT - Work is in progresss.
 Feel free to contact the https://github.com/tasel[authors] and give feedback.
 
 image:https://github.com/isaqb-org/curriculum-cosmo/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
