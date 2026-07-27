@@ -61,7 +61,7 @@ Teilnehmende die Erfordernisse an:
 This learning block provides an overview of collaborative approaches. Participants learn how to select, combine, and adapt suitable practices for different situations and contexts. They understand the respective requirements regarding preparation, facilitation, and the group of participants.
 
 [[LG-6-1]]
-==== LG 6-1: Know collaborative approaches for architecture work
+==== LG 6-1: Know Collaborative Approaches for Architecture Work
 
 Participants have gained an overview of collaborative approaches and have learned individual practices that are particularly valuable for architecture work in detail.
 
