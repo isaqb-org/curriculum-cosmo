@@ -77,7 +77,7 @@ Participants can decide, based on practical scenarios, which technique is applic
 Participants are able to make the necessary preparations for the practices covered in the training, to lead collaborative sessions, and to follow up afterwards.
 
 [[LG-6-2]]
-==== LG 6-2: Be able to select suitable collaborative approaches for the individual context
+==== LG 6-2: Be Able to Select Suitable Collaborative Approaches for the Individual Context
 
 Participants can decide which collaborative formats are suitable for which situation. To do this, participants know the characteristic features of the presented methods and understand which conditions are crucial for the success of each method. They know how to combine collaborative modeling techniques.
 
