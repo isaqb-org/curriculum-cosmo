@@ -25,10 +25,15 @@ This section contains references that are cited in whole or in part throughout t
 
 **K**
 
+- [[[kaner-2007, Kaner 2007]]] Kaner, S.: Facilitator's Guide to Participatory Decision-Making. 2nd edition. Jossey-Bass, 2007
 - [[[kelle-et-al, Kelle et al. 2024]]] Kelle E., Verschatse, G., Baas-Schwegler, K.: Collaborative Software Design: How to Facilitate Domain Modeling Decisions, Manning Publications, 2024
+**P**
+
+- [[[patton-2014, Patton & Economy 2014]]] Patton, J., Economy, P.: Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly Media, 2014
 
 **R**
 
+- [[[rayner-2023, Rayner 2023]]] Rayner, P.: The EventStorming Handbook. LeanPub https://leanpub.com/eventstorming_handbook
 - [[[read-2023, Read 2023]]] Read J.: Communication Patterns: A Guide for Developers and Architects, O'Reilly Media, 2023
 
 **S**
