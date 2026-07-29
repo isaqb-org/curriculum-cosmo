@@ -1,9 +1,16 @@
 # COSMO – iSAQB® Advanced Level Curriculum (COSMO) - Release Notes
 
-## Table of Contents
+## 20216.1 - Initial Release
 
-- [Changes in 2026.1](#changes-in-20261)
+This is the first public release of the COSMO Advanced Level module for CPSA®. The curriculum equips architects and development teams with the knowledge and practical skills needed to use collaborative modelling effectively in everyday architecture work. It combines architectural thinking with facilitation, communication, and collaborative decision-making to create shared understanding and improve the quality of architectural outcomes.
 
-# Changes in 2026.1 RC1
+The initial release is available in both German and English.
 
-This is the initial draft release for the COSMO – iSAQB® Advanced Level Curriculum (COSMO)
+Curriculum highlights
+
+* Foundations of collaborative architecture work
+* Experiencing and reflecting on collaboration and facilitation
+* Deepening knowledge through advanced concepts and practices
+* Creating the conditions for long-term success of collaborative sessions
+* Developing the skills needed to achieve lasting impact
+* An overview of collaborative modelling techniques and practices
