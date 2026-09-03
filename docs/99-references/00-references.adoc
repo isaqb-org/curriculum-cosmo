@@ -39,4 +39,5 @@ This section contains references that are cited in whole or in part throughout t
 **S**
 
 - [[[starke,Starke 2011]]] Starke, G.: Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München., 2011
+- [[skelton,Skelton et al. 2025]] Skelton, M., Pais, M. : Team Topologies, - Second edition, It Revolution, 2025
 
