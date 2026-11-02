@@ -161,7 +161,7 @@ Arbeit einbezogen werden können.
 // end::DE[]
 
 // tag::EN[]
-This learning block explores the cultural, organisational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
+This learning block explores the cultural, organizational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
 
 [[LG-4-1]]
 ==== LG 4-1: Identify Enabling Factors and Constraints for Collaborative Architecture Work
@@ -174,7 +174,7 @@ Participants learn to identify constraints and requirements that
 directly affect architecture work.
 
 The training provides practical guidance on how people with
-responsibility for architecture can influence organisational conditions
+responsibility for architecture can influence organizational conditions
 and how to respond when such influence is not possible.
 
 Participants understand the importance of securing buy-in from relevant
@@ -245,7 +245,7 @@ session and deriving next steps.
 [[LG-4-6]]
 ==== LG 4-6: Recognise Behavioural Patterns That Support or Hinder Collaborative Architecture Work
 
-Participants understand that organisational behaviour and cultural
+Participants understand that organizational behaviour and cultural
 conditions can significantly affect collaborative architecture work.
 
 They know typical behavioural patterns and cultural characteristics that
@@ -275,7 +275,7 @@ sessions in ways that identify and mitigate potential disruptions.
 [[LG-4-8]]
 ==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Modeling Sessions
 
-Participants understand that organisational and logistical conditions
+Participants understand that organizational and logistical conditions
 can significantly affect the course and outcome of collaborative
 sessions.
 

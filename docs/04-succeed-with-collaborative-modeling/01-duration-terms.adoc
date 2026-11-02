@@ -17,7 +17,7 @@
 
 === Terms and Concepts
 
-- Organisational Culture
+- Organizational Culture
 - Constraints
 - Meeting Energy
 // end::EN[]

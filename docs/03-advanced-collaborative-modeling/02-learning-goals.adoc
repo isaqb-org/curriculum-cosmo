@@ -164,10 +164,10 @@ Participants are familiar with the typical strengths and weaknesses of
 in-person and remote sessions in collaborative architecture work.
 
 They understand that not every collaborative format is equally suitable
-for different organisational, social, or spatial contexts.
+for different organizational, social, or spatial contexts.
 
 Participants are able to assess how session format (in-person vs.
-remote), group dynamics, degree of interaction, and organisational
+remote), group dynamics, degree of interaction, and organizational
 conditions influence the course and success of collaborative modeling
 and derive appropriate measures for the chosen format.
 
@@ -177,7 +177,7 @@ session.
 
 Participants are able to justify whether an in-person or remote format
 is more appropriate for a given collaborative modeling session, based
-on group dynamics, interaction requirements, and the organisational
+on group dynamics, interaction requirements, and the organizational
 context.
 
 [[LG-3-5]]
