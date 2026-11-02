@@ -99,13 +99,13 @@ Sprache zu kombinieren.  <<abelson-et-al-1996>>
 // end::DE[]
 
 // tag::EN[]
-This learning block provides the practical foundations of collaborative modelling. Participants learn how to use tools effectively, involve the right stakeholders, and make information visible throughout a session. They understand how session format, group composition, and a shared language influence the success of a session.
+This learning block provides the practical foundations of collaborative modeling. Participants learn how to use tools effectively, involve the right stakeholders, and make information visible throughout a session. They understand how session format, group composition, and a shared language influence the success of a session.
 
 [[LG-3-1]]
-==== LG 3-1: Select and Use Tools for Collaborative Modelling
+==== LG 3-1: Select and Use Tools for Collaborative Modeling
 
 Participants are familiar with common analogue and digital tools for
-collaborative modelling and are able to assess their suitability for
+collaborative modeling and are able to assess their suitability for
 different session formats.
 
 In particular, they are familiar with:
@@ -120,7 +120,7 @@ use cases of these tools and select suitable tools for their
 individual context.
 
 Participants are able to use a selection of tools confidently enough to
-prepare, facilitate, and document collaborative modelling sessions.
+prepare, facilitate, and document collaborative modeling sessions.
 
 [[LG-3-2]]
 ==== LG 3-2: Identify Roles and Participants for Collaborative Sessions
@@ -146,7 +146,7 @@ as facilitator and as an active designer.
 ==== LG 3-3: Visualise Information Interactively During Collaborative Sessions
 
 Participants are able to capture information during a collaborative
-modelling session through listening, asking questions, and visualising.
+modeling session through listening, asking questions, and visualising.
 
 They understand that, in such situations, the facilitator role combines
 aspects of moderation, interviewing, translation, and visualisation.
@@ -155,10 +155,10 @@ Participants are able to transform what they hear into a model that the group ca
 and to evolve this model collaboratively step by step.
 
 They are able to use visualisation deliberately to involve inexperienced
-participants in the modelling process and foster a shared understanding.
+participants in the modeling process and foster a shared understanding.
 
 [[LG-3-4]]
-==== LG 3-4: Decide Between In-Person and Remote Formats for Collaborative Modelling Sessions
+==== LG 3-4: Decide Between In-Person and Remote Formats for Collaborative Modeling Sessions
 
 Participants are familiar with the typical strengths and weaknesses of
 in-person and remote sessions in collaborative architecture work.
@@ -168,7 +168,7 @@ for different organisational, social, or spatial contexts.
 
 Participants are able to assess how session format (in-person vs.
 remote), group dynamics, degree of interaction, and organisational
-conditions influence the course and success of collaborative modelling
+conditions influence the course and success of collaborative modeling
 and derive appropriate measures for the chosen format.
 
 They understand that consciously selecting or adapting a collaborative
@@ -176,7 +176,7 @@ format can help reduce risks and increase the effectiveness of a
 session.
 
 Participants are able to justify whether an in-person or remote format
-is more appropriate for a given collaborative modelling session, based
+is more appropriate for a given collaborative modeling session, based
 on group dynamics, interaction requirements, and the organisational
 context.
 

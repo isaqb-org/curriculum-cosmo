@@ -24,7 +24,7 @@ ifeval::["{language}" == "DE"]
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Collaborative Software Modelling
+:curriculum-name: Collaborative Software Modeling
 :curriculum-header-title: iSAQB® Curriculum for Advanced Level: {curriculum-short}
 endif::[]
 

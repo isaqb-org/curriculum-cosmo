@@ -221,10 +221,10 @@ Participants are familiar with practices for preparing and visualising the initi
 situation of a session and validating it with the participants.
 
 [[LG-4-5]]
-==== LG 4-5: Turn Spontaneous Meetings into Structured Collaborative Modelling Sessions
+==== LG 4-5: Turn Spontaneous Meetings into Structured Collaborative Modeling Sessions
 
 Participants understand that spontaneous discussions about architecture
-and modelling can benefit from collaborative modelling.
+and modeling can benefit from collaborative modeling.
 
 They are familiar with measures for quickly introducing an appropriate
 structure in such situations, including clarification of goals, the
@@ -232,7 +232,7 @@ question to be addressed, the available time, the participants, and
 the expected outcome.
 
 Participants know simple facilitation and questioning techniques for
-turning an unstructured discussion into a collaborative modelling
+turning an unstructured discussion into a collaborative modeling
 session.
 
 They understand that prepared working environments and readily available
@@ -273,7 +273,7 @@ Participants know methods for preparing and facilitating collaborative
 sessions in ways that identify and mitigate potential disruptions.
 
 [[LG-4-8]]
-==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Sessions
+==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Modeling Sessions
 
 Participants understand that organisational and logistical conditions
 can significantly affect the course and outcome of collaborative
