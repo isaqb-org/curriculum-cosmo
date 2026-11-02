@@ -161,20 +161,20 @@ Arbeit einbezogen werden können.
 // end::DE[]
 
 // tag::EN[]
-This learning block explores the cultural, organisational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
+This learning block explores the cultural, organizational, and situational factors that support or hinder collaborative architecture work. Participants learn to identify initial situations, constraints, and potential disruptions early and assess how they may affect the course and outcome of a session. This develops the situational awareness needed to prepare collaborative work effectively and improve it purposefully.
 
 [[LG-4-1]]
 ==== LG 4-1: Identify Enabling Factors and Constraints for Collaborative Architecture Work
 
 Participants understand that the presence or absence of suitable cultural
-conditions within an organisation influences collaborative architecture
+conditions within an organization influences collaborative architecture
 work.
 
 Participants learn to identify constraints and requirements that
 directly affect architecture work.
 
 The training provides practical guidance on how people with
-responsibility for architecture can influence organisational conditions
+responsibility for architecture can influence organizational conditions
 and how to respond when such influence is not possible.
 
 Participants understand the importance of securing buy-in from relevant
@@ -198,7 +198,7 @@ course of a development initiative.
 
 Participants understand situational awareness as the ability to
 realistically assess the initial situation of a sociotechnical system in
-terms of people, organisation, collaboration, and constraints.
+terms of people, organization, collaboration, and constraints.
 
 They understand that insufficient situational awareness can result in
 unrealistic expectations, unsuitable formats, or ineffective
@@ -217,14 +217,14 @@ knowledge gaps.
 They are able to identify relevant knowledge sources, interests, and
 perspectives required to address the task.
 
-Participants are familiar with practices for preparing and visualising the initial
+Participants are familiar with practices for preparing and visualizing the initial
 situation of a session and validating it with the participants.
 
 [[LG-4-5]]
-==== LG 4-5: Turn Spontaneous Meetings into Structured Collaborative Modelling Sessions
+==== LG 4-5: Turn Spontaneous Meetings into Structured Collaborative Modeling Sessions
 
 Participants understand that spontaneous discussions about architecture
-and modelling can benefit from collaborative modelling.
+and modeling can benefit from collaborative modeling.
 
 They are familiar with measures for quickly introducing an appropriate
 structure in such situations, including clarification of goals, the
@@ -232,7 +232,7 @@ question to be addressed, the available time, the participants, and
 the expected outcome.
 
 Participants know simple facilitation and questioning techniques for
-turning an unstructured discussion into a collaborative modelling
+turning an unstructured discussion into a collaborative modeling
 session.
 
 They understand that prepared working environments and readily available
@@ -243,19 +243,19 @@ Participants are familiar with practices for documenting the results of a sponta
 session and deriving next steps.
 
 [[LG-4-6]]
-==== LG 4-6: Recognise Behavioural Patterns That Support or Hinder Collaborative Architecture Work
+==== LG 4-6: Recognize Behavioral Patterns That Support or Hinder Collaborative Architecture Work
 
-Participants understand that organisational behaviour and cultural
+Participants understand that organizational behavior and cultural
 conditions can significantly affect collaborative architecture work.
 
-They know typical behavioural patterns and cultural characteristics that
+They know typical behavioral patterns and cultural characteristics that
 can support or hinder collaborative architecture work.
 
 Participants understand that establishing collaborative ways of working
 often requires changes to existing habits, communication patterns, and
 perceptions of responsibility.
 
-They are able to identify areas in which behavioural change may be
+They are able to identify areas in which behavioral change may be
 necessary to establish collaborative architecture work effectively.
 
 Participants understand that existing communication, decision-making,
@@ -273,9 +273,9 @@ Participants know methods for preparing and facilitating collaborative
 sessions in ways that identify and mitigate potential disruptions.
 
 [[LG-4-8]]
-==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Sessions
+==== LG 4-8: Understand How Workshop Logistics Influence the Success of Collaborative Modeling Sessions
 
-Participants understand that organisational and logistical conditions
+Participants understand that organizational and logistical conditions
 can significantly affect the course and outcome of collaborative
 sessions.
 
