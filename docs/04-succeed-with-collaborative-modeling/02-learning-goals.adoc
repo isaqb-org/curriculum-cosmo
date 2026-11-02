@@ -243,19 +243,19 @@ Participants are familiar with practices for documenting the results of a sponta
 session and deriving next steps.
 
 [[LG-4-6]]
-==== LG 4-6: Recognize Behavioural Patterns That Support or Hinder Collaborative Architecture Work
+==== LG 4-6: Recognize Behavioral Patterns That Support or Hinder Collaborative Architecture Work
 
 Participants understand that organizational behaviour and cultural
 conditions can significantly affect collaborative architecture work.
 
-They know typical behavioural patterns and cultural characteristics that
+They know typical behavioral patterns and cultural characteristics that
 can support or hinder collaborative architecture work.
 
 Participants understand that establishing collaborative ways of working
 often requires changes to existing habits, communication patterns, and
 perceptions of responsibility.
 
-They are able to identify areas in which behavioural change may be
+They are able to identify areas in which behavioral change may be
 necessary to establish collaborative architecture work effectively.
 
 Participants understand that existing communication, decision-making,
