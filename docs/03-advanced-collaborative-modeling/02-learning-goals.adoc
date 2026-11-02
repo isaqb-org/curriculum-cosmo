@@ -191,7 +191,7 @@ Participants know the challenges involved in developing a shared
 understanding of problem domains.
 
 They understand the benefits of establishing a deliberately designed
-common language and are able to recognise when such a language is
+common language and are able to recognize when such a language is
 missing.
 
 Participants understand that language comprises not only words and their
