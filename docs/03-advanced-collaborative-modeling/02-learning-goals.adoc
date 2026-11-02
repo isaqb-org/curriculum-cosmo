@@ -143,7 +143,7 @@ Participants are able to assess the implications of a person acting both
 as facilitator and as an active designer.
 
 [[LG-3-3]]
-==== LG 3-3: Visualise Information Interactively During Collaborative Sessions
+==== LG 3-3: Visualize Information Interactively During Collaborative Sessions
 
 Participants are able to capture information during a collaborative
 modeling session through listening, asking questions, and visualising.
