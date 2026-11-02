@@ -146,7 +146,7 @@ as facilitator and as an active designer.
 ==== LG 3-3: Visualize Information Interactively During Collaborative Sessions
 
 Participants are able to capture information during a collaborative
-modeling session through listening, asking questions, and visualising.
+modeling session through listening, asking questions, and visualizing.
 
 They understand that, in such situations, the facilitator role combines
 aspects of moderation, interviewing, translation, and visualisation.

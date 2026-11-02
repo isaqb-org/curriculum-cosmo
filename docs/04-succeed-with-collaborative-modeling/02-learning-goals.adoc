@@ -217,7 +217,7 @@ knowledge gaps.
 They are able to identify relevant knowledge sources, interests, and
 perspectives required to address the task.
 
-Participants are familiar with practices for preparing and visualising the initial
+Participants are familiar with practices for preparing and visualizing the initial
 situation of a session and validating it with the participants.
 
 [[LG-4-5]]
