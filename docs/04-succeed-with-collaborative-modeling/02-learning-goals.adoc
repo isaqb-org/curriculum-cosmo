@@ -245,7 +245,7 @@ session and deriving next steps.
 [[LG-4-6]]
 ==== LG 4-6: Recognize Behavioral Patterns That Support or Hinder Collaborative Architecture Work
 
-Participants understand that organizational behaviour and cultural
+Participants understand that organizational behavior and cultural
 conditions can significantly affect collaborative architecture work.
 
 They know typical behavioral patterns and cultural characteristics that
