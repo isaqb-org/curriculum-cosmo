@@ -149,12 +149,12 @@ Participants are able to capture information during a collaborative
 modeling session through listening, asking questions, and visualizing.
 
 They understand that, in such situations, the facilitator role combines
-aspects of moderation, interviewing, translation, and visualisation.
+aspects of moderation, interviewing, translation, and visualization.
 
 Participants are able to transform what they hear into a model that the group can understand
 and to evolve this model collaboratively step by step.
 
-They are able to use visualisation deliberately to involve inexperienced
+They are able to use visualization deliberately to involve inexperienced
 participants in the modeling process and foster a shared understanding.
 
 [[LG-3-4]]
