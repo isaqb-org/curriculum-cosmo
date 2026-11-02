@@ -167,7 +167,7 @@ This learning block explores the cultural, organizational, and situational facto
 ==== LG 4-1: Identify Enabling Factors and Constraints for Collaborative Architecture Work
 
 Participants understand that the presence or absence of suitable cultural
-conditions within an organisation influences collaborative architecture
+conditions within an organization influences collaborative architecture
 work.
 
 Participants learn to identify constraints and requirements that
@@ -198,7 +198,7 @@ course of a development initiative.
 
 Participants understand situational awareness as the ability to
 realistically assess the initial situation of a sociotechnical system in
-terms of people, organisation, collaboration, and constraints.
+terms of people, organization, collaboration, and constraints.
 
 They understand that insufficient situational awareness can result in
 unrealistic expectations, unsuitable formats, or ineffective
